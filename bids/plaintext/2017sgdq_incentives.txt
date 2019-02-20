@@ -1,0 +1,3955 @@
+0 - Donation Goal
+Incentive: Emil-handed Run
+Game: NieR: Automata
+Description: If met, Halfcoordinated will complete the entire NieR: Automata run while holding an Emil plushie on his free hand.
+Amount: $2,740.00
+Goal: $2,500.00
+
+0 - Donation Goal
+Incentive: Fight Shovel Knight
+Game: Azure Striker Gunvolt 2
+Description: johncarls will fight Shovel Knight during his Azure Striker Gunvolt 2 run.
+Amount: $5,238.05
+Goal: $5,000.00
+
+0 - Bid War
+Incentive: Choose the Suit
+Game: Metroid Prime
+Description: Choose the suit design used for the Metroid Prime run.
+Amount: $4,423.00
+Goal: (None)
+
+1 - Bid option
+Incentive: Fusion Suit
+Game: Metroid Prime
+Description: 
+Amount: $2,425.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Chozo Suit
+Game: Metroid Prime
+Description: 
+Amount: $1,998.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Filename Choice
+Game: Castlevania: Symphony of the Night
+Description: Choose the Filename used for the Castlevania: Symphony of the Night run. 8 characters, A-Z, plus ! - . &#39;.
+Amount: $2,468.69
+Goal: (None)
+
+1 - Bid option
+Incentive: PIG EGG
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $705.6
+Goal: (None)
+
+1 - Bid option
+Incentive: HPMOR
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $625.0
+Goal: (None)
+
+1 - Bid option
+Incentive: AphoticK
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $261.0
+Goal: (None)
+
+1 - Bid option
+Incentive: HELP ME
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $145.0
+Goal: (None)
+
+1 - Bid option
+Incentive: 2B
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $107.0
+Goal: (None)
+
+1 - Bid option
+Incentive: CLARENCE
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: BARKLEY
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $70.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Buttz
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $55.0
+Goal: (None)
+
+1 - Bid option
+Incentive: MELO
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: RICK
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $15.0
+Goal: (None)
+
+1 - Bid option
+Incentive: MORTY
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: VENI
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: AXEARMOR
+Game: Castlevania: Symphony of the Night
+Description: 
+Amount: $0.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Choose the Androids
+Game: Assault Android Cactus
+Description: Choose the android characters used for the Assault Android Cactus run.
+Amount: $1,576.69
+Goal: (None)
+
+1 - Bid option
+Incentive: Starch
+Game: Assault Android Cactus
+Description: 
+Amount: $506.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Aubergine
+Game: Assault Android Cactus
+Description: 
+Amount: $477.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Holly
+Game: Assault Android Cactus
+Description: 
+Amount: $440.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Cactus
+Game: Assault Android Cactus
+Description: 
+Amount: $153.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Name the Player
+Game: ActRaiser
+Description: The player character, aka The Master, needs a name. You choose it. 8 character limit.
+Amount: $915.01
+Goal: (None)
+
+1 - Bid option
+Incentive: CBX
+Game: ActRaiser
+Description: 
+Amount: $270.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Siobhan
+Game: ActRaiser
+Description: 
+Amount: $145.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Koshiro
+Game: ActRaiser
+Description: 
+Amount: $125.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Iwata
+Game: ActRaiser
+Description: 
+Amount: $70.0
+Goal: (None)
+
+1 - Bid option
+Incentive: ARBYS
+Game: ActRaiser
+Description: 
+Amount: $65.0
+Goal: (None)
+
+1 - Bid option
+Incentive: glorious
+Game: ActRaiser
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Hobo
+Game: ActRaiser
+Description: 
+Amount: $30.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Ultimate All Levels
+Game: Super Monkey Ball Deluxe
+Description: If met, Jcool114 will do an Ultimate All Levels run instead of an Ultimate run.
+Amount: $6,000.00
+Goal: $6,000.00
+
+0 - Donation Goal
+Incentive: All Good Futures
+Game: Sonic CD 2011
+Description: If met, Flying Fox will do a Tails All Good Futures run instead of a Tails Any% run.
+Amount: $5,000.00
+Goal: $5,000.00
+
+0 - Bid War
+Incentive: Choose the Soundtrack
+Game: Sonic CD 2011
+Description: Choose the Soundtrack used for the Sonic CD run. JP OST vs US OST.
+Amount: $2,602.06
+Goal: (None)
+
+1 - Bid option
+Incentive: US Soundtrack
+Game: Sonic CD 2011
+Description: 
+Amount: $1,338.5
+Goal: (None)
+
+1 - Bid option
+Incentive: JP Soundtrack
+Game: Sonic CD 2011
+Description: 
+Amount: $1,263.5
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Green Hill Zone Blindfolded
+Game: Sonic Generations
+Description: If met, Frokenok will speedrun the entirety of Green Hill Zone blindfolded, both modern and classic levels.
+Amount: $0.00
+Goal: $5,000.00
+
+0 - Donation Goal
+Incentive: Hidden Easter Egg
+Game: Mirror&#39;s Edge Catalyst
+Description: There&#39;s an easter egg near the end of Mirror&#39;s Edge Catalyst, involving rodents and a locomotive. If you want to see it, this one&#39;s for you.
+Amount: $5,060.00
+Goal: $5,000.00
+
+0 - Donation Goal
+Incentive: Collect the new Rainbow Coin
+Game: Donkey Kong 64
+Description: Kiwikiller67 will collect the hidden Rainbow Coin that remained unfound until last year.
+Amount: $3,256.00
+Goal: $3,000.00
+
+0 - Donation Goal
+Incentive: Bonus Henry Any% Run
+Game: Castlevania: Legacy of Darkness
+Description: If met, SluckySeven will complete an additional Henry Any% run after his Carrie Any% run.
+Amount: $5,000.00
+Goal: $5,000.00
+
+0 - Bid War
+Incentive: Filename and License Plate Choice
+Game: Tryrush Deppy
+Description: Choose the Filename and License Plate Number used for the Tryrush Deppy run. 5 letters for Filename, 00-00 format for License Plate, numbers only.
+Amount: $467.78
+Goal: (None)
+
+1 - Bid option
+Incentive: Abby, 06-25
+Game: Tryrush Deppy
+Description: 
+Amount: $162.7
+Goal: (None)
+
+1 - Bid option
+Incentive: MOM, 00-07
+Game: Tryrush Deppy
+Description: 
+Amount: $155.0
+Goal: (None)
+
+1 - Bid option
+Incentive: NOOSU
+Game: Tryrush Deppy
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: DAD, 70-00
+Game: Tryrush Deppy
+Description: 
+Amount: $15.0
+Goal: (None)
+
+0 - Bid War
+Incentive: License Plate Design
+Game: Tryrush Deppy
+Description: Choose the License Plate Design used for the Tryrush Deppy run.
+Amount: $121.00
+Goal: (None)
+
+1 - Bid option
+Incentive: Cactus
+Game: Tryrush Deppy
+Description: 
+Amount: $100.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Top Hat
+Game: Tryrush Deppy
+Description: 
+Amount: $20.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Space Shuttle
+Game: Tryrush Deppy
+Description: 
+Amount: $1.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Eiffel Tower
+Game: Tryrush Deppy
+Description: 
+Amount: $0.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Elephant
+Game: Tryrush Deppy
+Description: 
+Amount: $0.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mountain
+Game: Tryrush Deppy
+Description: 
+Amount: $0.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mug
+Game: Tryrush Deppy
+Description: 
+Amount: $0.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Penguin
+Game: Tryrush Deppy
+Description: 
+Amount: $0.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Russian Cathedral
+Game: Tryrush Deppy
+Description: 
+Amount: $0.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Statue of Liberty
+Game: Tryrush Deppy
+Description: 
+Amount: $0.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Twitch Integration
+Game: Clustertruck
+Description: If met, we will enable Twitch Integration for the Clustertruck run, where you can send commands through the chat to mess with the runner.
+Amount: $5,010.00
+Goal: $5,000.00
+
+0 - Bid War
+Incentive: Put Hat on Bus
+Game: OmniBus
+Description: Konasumi&#39;s bus likes to wear a hat. Choose the hat the bus will wear.
+Amount: $545.00
+Goal: (None)
+
+1 - Bid option
+Incentive: Ice Cream Cone
+Game: OmniBus
+Description: 
+Amount: $347.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Park Ranger Hat
+Game: OmniBus
+Description: 
+Amount: $120.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Baseball Cap
+Game: OmniBus
+Description: 
+Amount: $78.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Beeto&#39;s Big Break
+Game: Shovel Knight: Specter of Torment
+Description: Beeto&#39;s Big Break is a challenge mode stage where Specter Knight needs to juggle a beetle through the entire stage without dropping it.
+Amount: $5,076.32
+Goal: $5,000.00
+
+0 - Donation Goal
+Incentive: BONUS GAME: Shovel Knight: Specter of Torment
+Game: Shovel Knight: Specter of Torment
+Description: Replace SETUP BLOCK 1 with an Any% run of Shovel Knight: Specter of Torment by MunchaKoopas.
+Amount: $15,125.00
+Goal: $15,000.00
+
+0 - Bid War
+Incentive: Choose the Armor Color
+Game: Shovel Knight: Specter of Torment
+Description: Choose the armor color used for the Specter of Torment run.
+Amount: $1,480.50
+Goal: (None)
+
+1 - Bid option
+Incentive: Purple
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $685.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Green
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $665.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Red
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $70.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Blue
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $60.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Filename Choice
+Game: Shovel Knight: Specter of Torment
+Description: Choose the Filename used for the Specter of Torment run.
+Amount: $1,018.50
+Goal: (None)
+
+1 - Bid option
+Incentive: Gregg Rulz OK
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $525.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Aughostus
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $220.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Link
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $107.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Boneless
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $65.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Predix
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $51.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Filet
+Game: Shovel Knight: Specter of Torment
+Description: 
+Amount: $5.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Watch the post-credits cutscene
+Game: The Wheel of Time
+Description: The Wheel of Time has a post-credits cutscene. If you want to see it, here you go.
+Amount: $2,500.00
+Goal: $2,500.00
+
+0 - Donation Goal
+Incentive: Capture Team Rocket
+Game: Pokemon Puzzle League
+Description: FFR Pro 21 will complete the 2D Special Stage and capture that pesky Team Rocket.
+Amount: $3,045.51
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: Cyndaquil Nickname
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: Choose the nickname given to the Cyndaquil in the Pok\xc3\xa9mon HeartGold/SoulSilver run. 10 characters.
+Amount: $4,964.17
+Goal: (None)
+
+1 - Bid option
+Incentive: FireSonic
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $1,989.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Torchic
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $1,473.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Final Pam
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $715.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Frenipan
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $243.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Gwyn
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $115.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Boneless
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $110.5
+Goal: (None)
+
+1 - Bid option
+Incentive: GreenMeany
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $55.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Primus
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: UncleSam
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Goomy
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $42.2
+Goal: (None)
+
+1 - Bid option
+Incentive: FirePotato
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $36.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Rune
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $30.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Lavos
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: SethRich
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: LordZuul
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $5.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Raikou Nickname
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: Choose the nickname given to the Raikou used in the Pok\xc3\xa9mon HeartGold/SoulSilver run. 10 characters.
+Amount: $8,502.66
+Goal: (None)
+
+1 - Bid option
+Incentive: USA
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $6,085.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Pizza
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $702.0
+Goal: (None)
+
+1 - Bid option
+Incentive: HOOOOOOOOO
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $436.5
+Goal: (None)
+
+1 - Bid option
+Incentive: ZipZapCat
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $360.6
+Goal: (None)
+
+1 - Bid option
+Incentive: OhMyDog
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $295.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mike
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $165.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Goomy
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $100.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Doggo
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $92.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Sami Zayn
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $65.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Baikou
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $60.0
+Goal: (None)
+
+1 - Bid option
+Incentive: mandyLurk
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $35.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Rexyou
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $30.0
+Goal: (None)
+
+1 - Bid option
+Incentive: ThunderCat
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $15.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Widowmaker
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $10.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Sentret Nickname
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: Choose the nickname given to the Sentret used in the Pok\xc3\xa9mon HeartGold/SoulSilver run. 10 characters.
+Amount: $3,970.52
+Goal: (None)
+
+1 - Bid option
+Incentive: TitusBrand
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $1,350.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mr. Meeseeks
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $1,299.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Superdeath
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $585.0
+Goal: (None)
+
+1 - Bid option
+Incentive: StayWoke
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $261.0
+Goal: (None)
+
+1 - Bid option
+Incentive: MVP
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $155.0
+Goal: (None)
+
+1 - Bid option
+Incentive: FurrySnek
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $135.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Oh Banana
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $65.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Goomy
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $60.0
+Goal: (None)
+
+1 - Bid option
+Incentive: RapGod
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mewtwo
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $20.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Joeys
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: VoHiT
+Game: Pok\xc3\xa9mon HeartGold/SoulSilver
+Description: 
+Amount: $5.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Emily vs Corvo
+Game: Dishonored 2
+Description: Choose the character story played for the Dishonored 2 run.
+Amount: $2,711.39
+Goal: (None)
+
+1 - Bid option
+Incentive: Play Emily&#39;s Story
+Game: Dishonored 2
+Description: 
+Amount: $2,526.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Play Corvo&#39;s Story
+Game: Dishonored 2
+Description: 
+Amount: $185.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Secret Dog Ending
+Game: Silent Hill 2
+Description: Silent Hill 2 has a hidden ending. It involves a Shiba Inu.
+Amount: $5,010.05
+Goal: $5,000.00
+
+0 - Bid War
+Incentive: Chris vs Jill
+Game: Resident Evil
+Description: Choose the character played for the Resident Evil run.
+Amount: $3,892.74
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Jill
+Game: Resident Evil
+Description: 
+Amount: $3,382.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Chris
+Game: Resident Evil
+Description: 
+Amount: $510.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Choose the Voice Language
+Game: Onimusha: Warlords
+Description: Choose the voice language used for the run.
+Amount: $2,527.00
+Goal: (None)
+
+1 - Bid option
+Incentive: English
+Game: Onimusha: Warlords
+Description: 
+Amount: $1,876.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Japanese
+Game: Onimusha: Warlords
+Description: 
+Amount: $651.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Use the Panda Suit
+Game: Onimusha: Warlords
+Description: Samanosuke will trade his samurai armor for an &quot;adorable&quot; panda suit for the duration of the run.
+Amount: $3,500.16
+Goal: $3,500.00
+
+0 - Bid War
+Incentive: Filename Choice
+Game: Castlevania III: Dracula&#39;s Curse
+Description: Choose the filename used for the Castlevania III run. 8 characters.
+Amount: $2,440.80
+Goal: (None)
+
+1 - Bid option
+Incentive: FinalPam
+Game: Castlevania III: Dracula&#39;s Curse
+Description: 
+Amount: $941.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Juese
+Game: Castlevania III: Dracula&#39;s Curse
+Description: 
+Amount: $710.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Muscles
+Game: Castlevania III: Dracula&#39;s Curse
+Description: 
+Amount: $414.1
+Goal: (None)
+
+1 - Bid option
+Incentive: HELP ME
+Game: Castlevania III: Dracula&#39;s Curse
+Description: 
+Amount: $220.0
+Goal: (None)
+
+1 - Bid option
+Incentive: WALLCHIK
+Game: Castlevania III: Dracula&#39;s Curse
+Description: 
+Amount: $55.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Shankar
+Game: Castlevania III: Dracula&#39;s Curse
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Roofress
+Game: Castlevania III: Dracula&#39;s Curse
+Description: 
+Amount: $0.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Filename Choice
+Game: Startropics
+Description: Choose the filename used for the Startropics run.
+Amount: $1,512.48
+Goal: (None)
+
+1 - Bid option
+Incentive: Bananas
+Game: Startropics
+Description: 
+Amount: $767.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Harry
+Game: Startropics
+Description: 
+Amount: $320.0
+Goal: (None)
+
+1 - Bid option
+Incentive: YerOlDad
+Game: Startropics
+Description: 
+Amount: $165.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Vaisi
+Game: Startropics
+Description: 
+Amount: $150.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Jeff
+Game: Startropics
+Description: 
+Amount: $60.0
+Goal: (None)
+
+1 - Bid option
+Incentive: SWE
+Game: Startropics
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Crisdoile2
+Game: Startropics
+Description: 
+Amount: $0.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: BONUS GAME: Mega Man X
+Game: Mega Man X
+Description: Replace SETUP BLOCK 2 with an Any% Buster Only run of Mega Man X by ColonelFatso.
+Amount: $20,245.00
+Goal: $20,000.00
+
+0 - Bid War
+Incentive: Choose Character Names
+Game: Divinity: Original Sin
+Description: Choose the character names used for the Divinity: Original Sin coop run. 20 characters, letters and numbers. Top 2 selected.
+Amount: $6,015.03
+Goal: (None)
+
+1 - Bid option
+Incentive: DatBoi
+Game: Divinity: Original Sin
+Description: 
+Amount: $1,922.0
+Goal: (None)
+
+1 - Bid option
+Incentive: 2B
+Game: Divinity: Original Sin
+Description: 
+Amount: $1,577.0
+Goal: (None)
+
+1 - Bid option
+Incentive: 9S
+Game: Divinity: Original Sin
+Description: 
+Amount: $1,500.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Got2BFAST
+Game: Divinity: Original Sin
+Description: 
+Amount: $345.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Amaterasu
+Game: Divinity: Original Sin
+Description: 
+Amount: $315.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bunner
+Game: Divinity: Original Sin
+Description: 
+Amount: $151.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Swingle
+Game: Divinity: Original Sin
+Description: 
+Amount: $125.0
+Goal: (None)
+
+1 - Bid option
+Incentive: TheLaw
+Game: Divinity: Original Sin
+Description: 
+Amount: $55.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Goldy
+Game: Divinity: Original Sin
+Description: 
+Amount: $10.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Choose Character Names
+Game: Might and Magic VI: The Mandate of Heaven
+Description: Choose the character names used for the Might and Magic VI run. 15 character maximum, letters, numbers, symbols. Top 4 selected.
+Amount: $1,472.11
+Goal: (None)
+
+1 - Bid option
+Incentive: Slartibartfast
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $471.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Goku
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $235.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Chevreau
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $100.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Swingle
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $100.0
+Goal: (None)
+
+1 - Bid option
+Incentive: rooSip
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $60.0
+Goal: (None)
+
+1 - Bid option
+Incentive: SandKnight
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $60.0
+Goal: (None)
+
+1 - Bid option
+Incentive: KangarooJacques
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $45.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Fana
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $35.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Vodor
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $6.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Choose the Ending
+Game: Might and Magic VI: The Mandate of Heaven
+Description: Save the world ending vs Destroy the World ending. Both cinematics are amusing.
+Amount: $1,715.00
+Goal: (None)
+
+1 - Bid option
+Incentive: Save the World
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $1,235.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Destroy the World
+Game: Might and Magic VI: The Mandate of Heaven
+Description: 
+Amount: $480.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Unlock the Burst Wave
+Game: Ys Origin
+Description: The Burst Wave is a powerful weapon that resembles a Kamehameha from Dragonball Z. Ghost King will collect it and show it off for you.
+Amount: $2,005.00
+Goal: $2,000.00
+
+0 - Donation Goal
+Incentive: Play on the US Prototype Version
+Game: The Firemen
+Description: If met, Omnigamer will play on the US Prototype version of the game for The Firemen run.
+Amount: $4,233.14
+Goal: $4,000.00
+
+0 - Donation Goal
+Incentive: Sing Nessum Dorma
+Game: Ratchet &amp; Clank
+Description: Xem will sing &quot;Nessun Dorma&quot;, a famous opera aria, after his Ratchet and Clank run.
+Amount: $8,050.00
+Goal: $8,000.00
+
+0 - Bid War
+Incentive: Ayla&#39;s Name
+Game: Chrono Trigger
+Description: Choose the name given to Ayla for the Chrono Trigger run. 5 characters, no duplicate names.
+Amount: $4,132.00
+Goal: (None)
+
+1 - Bid option
+Incentive: OBB
+Game: Chrono Trigger
+Description: 
+Amount: $1,642.0
+Goal: (None)
+
+1 - Bid option
+Incentive: EEGAH!
+Game: Chrono Trigger
+Description: 
+Amount: $1,436.0
+Goal: (None)
+
+1 - Bid option
+Incentive: LAYLA
+Game: Chrono Trigger
+Description: 
+Amount: $561.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Katia
+Game: Chrono Trigger
+Description: 
+Amount: $148.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Lucca
+Game: Chrono Trigger
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Nyaa
+Game: Chrono Trigger
+Description: 
+Amount: $60.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mao
+Game: Chrono Trigger
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pepsi
+Game: Chrono Trigger
+Description: 
+Amount: $35.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Linty
+Game: Chrono Trigger
+Description: 
+Amount: $25.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Crono&#39;s Name
+Game: Chrono Trigger
+Description: Choose the name given to Crono for the Chrono Trigger run. 5 characters, no duplicate names.
+Amount: $9,406.55
+Goal: (None)
+
+1 - Bid option
+Incentive: TACOS
+Game: Chrono Trigger
+Description: 
+Amount: $2,450.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Goku
+Game: Chrono Trigger
+Description: 
+Amount: $1,315.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Geran
+Game: Chrono Trigger
+Description: 
+Amount: $160.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Binyo
+Game: Chrono Trigger
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Taako
+Game: Chrono Trigger
+Description: 
+Amount: $45.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Cloud
+Game: Chrono Trigger
+Description: 
+Amount: $30.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Frog&#39;s Name
+Game: Chrono Trigger
+Description: Choose the name given to Frog for the Chrono Trigger run. 5 characters, no duplicate names.
+Amount: $5,728.91
+Goal: (None)
+
+1 - Bid option
+Incentive: Glenn
+Game: Chrono Trigger
+Description: 
+Amount: $2,660.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Hypno
+Game: Chrono Trigger
+Description: 
+Amount: $2,205.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Tsuyu
+Game: Chrono Trigger
+Description: 
+Amount: $570.2
+Goal: (None)
+
+1 - Bid option
+Incentive: Toad
+Game: Chrono Trigger
+Description: 
+Amount: $182.5
+Goal: (None)
+
+1 - Bid option
+Incentive: MJFrg
+Game: Chrono Trigger
+Description: 
+Amount: $100.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ree
+Game: Chrono Trigger
+Description: 
+Amount: $10.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Lucca&#39;s Name
+Game: Chrono Trigger
+Description: Choose the name given to Lucca for the Chrono Trigger run. 5 characters, no duplicate names.
+Amount: $2,918.45
+Goal: (None)
+
+1 - Bid option
+Incentive: Arbys
+Game: Chrono Trigger
+Description: 
+Amount: $1,449.2
+Goal: (None)
+
+1 - Bid option
+Incentive: NERD!
+Game: Chrono Trigger
+Description: 
+Amount: $1,165.2
+Goal: (None)
+
+1 - Bid option
+Incentive: Midna
+Game: Chrono Trigger
+Description: 
+Amount: $55.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Tedd
+Game: Chrono Trigger
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Cathy
+Game: Chrono Trigger
+Description: 
+Amount: $29.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Marle&#39;s Name
+Game: Chrono Trigger
+Description: Choose the name given to Marle for the Chrono Trigger run. 5 characters, no duplicate names.
+Amount: $2,173.56
+Goal: (None)
+
+1 - Bid option
+Incentive: Love!
+Game: Chrono Trigger
+Description: 
+Amount: $1,000.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bulma
+Game: Chrono Trigger
+Description: 
+Amount: $592.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Hest
+Game: Chrono Trigger
+Description: 
+Amount: $527.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Nadia
+Game: Chrono Trigger
+Description: 
+Amount: $9.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Robo&#39;s Name
+Game: Chrono Trigger
+Description: Choose the name given to Robo for the Chrono Trigger run. 5 characters, no duplicate names.
+Amount: $5,248.31
+Goal: (None)
+
+1 - Bid option
+Incentive: RyanD
+Game: Chrono Trigger
+Description: 
+Amount: $2,382.4
+Goal: (None)
+
+1 - Bid option
+Incentive: ARB-Y
+Game: Chrono Trigger
+Description: 
+Amount: $1,755.7
+Goal: (None)
+
+1 - Bid option
+Incentive: WallE
+Game: Chrono Trigger
+Description: 
+Amount: $473.0
+Goal: (None)
+
+1 - Bid option
+Incentive: RoBro
+Game: Chrono Trigger
+Description: 
+Amount: $200.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bendr
+Game: Chrono Trigger
+Description: 
+Amount: $145.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ernst
+Game: Chrono Trigger
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Wall-E
+Game: Chrono Trigger
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mara
+Game: Chrono Trigger
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Rick
+Game: Chrono Trigger
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ringo
+Game: Chrono Trigger
+Description: 
+Amount: $10.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Rev Mode
+Game: Tetris: The Grand Master
+Description: EnchantressOfNumbers will demonstrate upside down Tetris mastery in TGM1&#39;s Rev Mode.
+Amount: $6,000.00
+Goal: $6,000.00
+
+0 - Donation Goal
+Incentive: Master Mode
+Game: Tetris The Grand Master 3: Terror Instinct
+Description: KevinDDR will make an attempt at GM rank in Master Mode.
+Amount: $12,513.62
+Goal: $12,500.00
+
+0 - Donation Goal
+Incentive: Shirase No Hold
+Game: Tetris The Grand Master 3: Terror Instinct
+Description: KevinDDR will play through Shirase mode without ever using the &quot;Hold&quot; button to save a piece, making the run significantly more difficult.
+Amount: $15,000.00
+Goal: $15,000.00
+
+0 - Bid War
+Incentive: Filename Choice
+Game: Zelda 2: The Adventure of Link
+Description: Choose the filename for the Zelda II run. 8 characters; letters, numbers, spaces, dashes and periods.
+Amount: $7,861.16
+Goal: (None)
+
+1 - Bid option
+Incentive: LUNK
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $1,988.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Error
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $1,787.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Germench
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $1,195.0
+Goal: (None)
+
+1 - Bid option
+Incentive: LANK
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $665.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $522.0
+Goal: (None)
+
+1 - Bid option
+Incentive: 2B
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $500.2
+Goal: (None)
+
+1 - Bid option
+Incentive: Bagu
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $325.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Wolf
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $230.0
+Goal: (None)
+
+1 - Bid option
+Incentive: McBobert
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $118.0
+Goal: (None)
+
+1 - Bid option
+Incentive: BB
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $105.0
+Goal: (None)
+
+1 - Bid option
+Incentive: HOTDAD
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $100.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pokemon
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $90.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ganon
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $40.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bubba
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $35.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Lint
+Game: Zelda 2: The Adventure of Link
+Description: 
+Amount: $25.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Bonus Diamond All Zones run
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: If met, SpootyBiscuit will do an All Zones run with the new character Diamond.
+Amount: $8,067.66
+Goal: $7,500.00
+
+0 - Bid War
+Incentive: Choose the Random Seed
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: The Nocturna race will use the seed chosen by you, the donators. 1-10 characters, alphanumerics and spaces. Case insensitive.
+Amount: $2,456.00
+Goal: (None)
+
+1 - Bid option
+Incentive: 2LEFTFEET
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $881.0
+Goal: (None)
+
+1 - Bid option
+Incentive: GREGG RULZ
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $734.0
+Goal: (None)
+
+1 - Bid option
+Incentive: 17
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $505.0
+Goal: (None)
+
+1 - Bid option
+Incentive: GOT 2B RAD
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $200.0
+Goal: (None)
+
+1 - Bid option
+Incentive: PRAISE4HAM
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $21.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Choose the Soundtrack
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: Choose the Soundtrack used for the Crypt of the NecroDancer run.
+Amount: $5,704.18
+Goal: (None)
+
+1 - Bid option
+Incentive: Danny B - The Original
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $1,992.1
+Goal: (None)
+
+1 - Bid option
+Incentive: FamilyJules - Rock/Metal
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $1,978.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Virt - Chiptune
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $653.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Random
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $342.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Girlfriend Records - Synthwave
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $310.0
+Goal: (None)
+
+1 - Bid option
+Incentive: OCRemix Collaborative Mix
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $278.3
+Goal: (None)
+
+1 - Bid option
+Incentive: A_Rival - Electronic
+Game: Crypt of the NecroDancer: AMPLIFIED
+Description: 
+Amount: $150.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Additional Any% NG+ run
+Game: Shadow Complex Remastered
+Description: ajfirecracker will complete a NewGame+ glitched run of Shadow Complex after his glitchless run.
+Amount: $5,000.00
+Goal: $5,000.00
+
+0 - Donation Goal
+Incentive: Get the Good Ending
+Game: Avenging Spirit
+Description: If met, johncarls will save the girl and get the Good Ending.
+Amount: $2,000.00
+Goal: $2,000.00
+
+0 - Bid War
+Incentive: Choose the Language
+Game: Star Wars Jedi Knight II: Jedi Outcast
+Description: Select the language used for the Jedi Outcast run.
+Amount: $7,491.68
+Goal: (None)
+
+1 - Bid option
+Incentive: German
+Game: Star Wars Jedi Knight II: Jedi Outcast
+Description: 
+Amount: $3,584.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Spanish
+Game: Star Wars Jedi Knight II: Jedi Outcast
+Description: 
+Amount: $1,796.4
+Goal: (None)
+
+1 - Bid option
+Incentive: French
+Game: Star Wars Jedi Knight II: Jedi Outcast
+Description: 
+Amount: $1,106.2
+Goal: (None)
+
+1 - Bid option
+Incentive: English
+Game: Star Wars Jedi Knight II: Jedi Outcast
+Description: 
+Amount: $1,004.6
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Level 1 Sephiroth
+Game: Kingdom Hearts II Final Mix
+Description: Bl00dyBizkitz will complete the optional super hard bossfight against Sephiroth on Level 1 mode.
+Amount: $20,088.96
+Goal: $20,000.00
+
+0 - Donation Goal
+Incentive: Level 1 Terra/Lingering Will
+Game: Kingdom Hearts II Final Mix
+Description: Bl00dyBizkitz will fight the hardest boss in the game, Terra/Lingering Will, on Level 1 mode.
+Amount: $20,135.50
+Goal: $20,000.00
+
+0 - Bid War
+Incentive: Sing Disney Songs
+Game: Kingdom Hearts II Final Mix
+Description: Choose which songs you&#39;d like the Kingdom Hearts crew to sing during the KH2 Final Mix run. Top 5 will be selected.
+Amount: $14,253.29
+Goal: (None)
+
+1 - Bid option
+Incentive: Little Mermaid - Part of Your World
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $4,698.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Hercules - Go the Distance
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $3,434.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Aladdin - Friend Like Me
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $2,024.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Jungle Book - Bear Necessities
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $1,935.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Hercules - I won&#39;t Say (I&#39;m in Love)
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $1,636.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mulan - Reflection
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $525.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Aladdin - A Whole New World
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $0.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Beauty and the Beast - Gaston
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $0.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Hunchback of Notre Dame - Hellfire
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $0.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mulan - I&#39;ll Make a Man out of You
+Game: Kingdom Hearts II Final Mix
+Description: 
+Amount: $0.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: BONUS GAME: Kingdom Hearts II Final Mix
+Game: Kingdom Hearts II Final Mix
+Description: Replace SETUP BLOCK 3 with a LV1 Data Org RTA run of Kingdom Hearts II Final Mix by Bl00dyBizkitz.
+Amount: $30,505.88
+Goal: $30,000.00
+
+0 - Bid War
+Incentive: Choose Run Category
+Game: Metroid Fusion
+Description: Choose the category for the Metroid Fusion run. 100% vs 0%.
+Amount: $24,068.92
+Goal: (None)
+
+1 - Bid option
+Incentive: 0% run
+Game: Metroid Fusion
+Description: 
+Amount: $15,592.9
+Goal: (None)
+
+1 - Bid option
+Incentive: 100% run
+Game: Metroid Fusion
+Description: 
+Amount: $8,475.9
+Goal: (None)
+
+0 - Bid War
+Incentive: Save or Kill the Animals
+Game: Super Metroid
+Description: Save the frames vs Save the animals, your choice.
+Amount: $264,939.00
+Goal: (None)
+
+1 - Bid option
+Incentive: Save the Animals
+Game: Super Metroid
+Description: 
+Amount: $136,596.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Kill the Animals
+Game: Super Metroid
+Description: 
+Amount: $128,342.3
+Goal: (None)
+
+0 - Bid War
+Incentive: Aeris&#39;s Name
+Game: Final Fantasy VII
+Description: Choose the name given to Aeris for the Final Fantasy VII run. 9 characters.
+Amount: $9,126.43
+Goal: (None)
+
+1 - Bid option
+Incentive: COOLRANCH
+Game: Final Fantasy VII
+Description: 
+Amount: $3,333.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Aerith
+Game: Final Fantasy VII
+Description: 
+Amount: $2,925.5
+Goal: (None)
+
+1 - Bid option
+Incentive: SPOILER
+Game: Final Fantasy VII
+Description: 
+Amount: $813.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Bucket
+Game: Final Fantasy VII
+Description: 
+Amount: $537.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bullseye
+Game: Final Fantasy VII
+Description: 
+Amount: $231.0
+Goal: (None)
+
+1 - Bid option
+Incentive: ImGonaDie
+Game: Final Fantasy VII
+Description: 
+Amount: $230.0
+Goal: (None)
+
+1 - Bid option
+Incentive: RedShirt
+Game: Final Fantasy VII
+Description: 
+Amount: $220.0
+Goal: (None)
+
+1 - Bid option
+Incentive: SeanBean
+Game: Final Fantasy VII
+Description: 
+Amount: $190.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Pastilda
+Game: Final Fantasy VII
+Description: 
+Amount: $130.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mama
+Game: Final Fantasy VII
+Description: 
+Amount: $115.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Denice
+Game: Final Fantasy VII
+Description: 
+Amount: $110.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Alice
+Game: Final Fantasy VII
+Description: 
+Amount: $80.4
+Goal: (None)
+
+1 - Bid option
+Incentive: I LIVE
+Game: Final Fantasy VII
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Tifa
+Game: Final Fantasy VII
+Description: 
+Amount: $50.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Barret&#39;s Name
+Game: Final Fantasy VII
+Description: Choose the name given to Barret for the Final Fantasy VII run. 9 characters.
+Amount: $5,922.88
+Goal: (None)
+
+1 - Bid option
+Incentive: Mamilami
+Game: Final Fantasy VII
+Description: 
+Amount: $2,274.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mega Ran
+Game: Final Fantasy VII
+Description: 
+Amount: $2,076.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Mr. T
+Game: Final Fantasy VII
+Description: 
+Amount: $860.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Beefcake
+Game: Final Fantasy VII
+Description: 
+Amount: $225.0
+Goal: (None)
+
+1 - Bid option
+Incentive: BadNews
+Game: Final Fantasy VII
+Description: 
+Amount: $179.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Lunchbox
+Game: Final Fantasy VII
+Description: 
+Amount: $105.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Lambini
+Game: Final Fantasy VII
+Description: 
+Amount: $57.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Gilbit
+Game: Final Fantasy VII
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Cawky
+Game: Final Fantasy VII
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Gratata
+Game: Final Fantasy VII
+Description: 
+Amount: $20.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Cait Sith&#39;s Name
+Game: Final Fantasy VII
+Description: Choose the name given to Cait Sith for the Final Fantasy VII run. 9 characters.
+Amount: $4,135.32
+Goal: (None)
+
+1 - Bid option
+Incentive: nalaSmug
+Game: Final Fantasy VII
+Description: 
+Amount: $1,605.5
+Goal: (None)
+
+1 - Bid option
+Incentive: RealMyop
+Game: Final Fantasy VII
+Description: 
+Amount: $889.0
+Goal: (None)
+
+1 - Bid option
+Incentive: CincoFone
+Game: Final Fantasy VII
+Description: 
+Amount: $510.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Meow
+Game: Final Fantasy VII
+Description: 
+Amount: $350.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bonchon
+Game: Final Fantasy VII
+Description: 
+Amount: $315.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Caitlyn
+Game: Final Fantasy VII
+Description: 
+Amount: $165.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mister
+Game: Final Fantasy VII
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Gil Bot
+Game: Final Fantasy VII
+Description: 
+Amount: $58.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mewtwo
+Game: Final Fantasy VII
+Description: 
+Amount: $47.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Magoo
+Game: Final Fantasy VII
+Description: 
+Amount: $45.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Schmibble
+Game: Final Fantasy VII
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Chibo
+Game: Final Fantasy VII
+Description: 
+Amount: $15.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Crimblsin
+Game: Final Fantasy VII
+Description: 
+Amount: $15.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Fluffer
+Game: Final Fantasy VII
+Description: 
+Amount: $15.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Cid&#39;s Name
+Game: Final Fantasy VII
+Description: Choose the name given to Cid for the Final Fantasy VII run. 9 characters.
+Amount: $9,580.18
+Goal: (None)
+
+1 - Bid option
+Incentive: SevenS1ns
+Game: Final Fantasy VII
+Description: 
+Amount: $3,310.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Chris
+Game: Final Fantasy VII
+Description: 
+Amount: $2,376.0
+Goal: (None)
+
+1 - Bid option
+Incentive: SoloGyoo
+Game: Final Fantasy VII
+Description: 
+Amount: $2,268.9
+Goal: (None)
+
+1 - Bid option
+Incentive: MrGrumpy
+Game: Final Fantasy VII
+Description: 
+Amount: $372.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Setzer
+Game: Final Fantasy VII
+Description: 
+Amount: $230.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pork
+Game: Final Fantasy VII
+Description: 
+Amount: $225.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Buffalo
+Game: Final Fantasy VII
+Description: 
+Amount: $170.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Cindy
+Game: Final Fantasy VII
+Description: 
+Amount: $162.2
+Goal: (None)
+
+1 - Bid option
+Incentive: BlueSteel
+Game: Final Fantasy VII
+Description: 
+Amount: $150.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Krys
+Game: Final Fantasy VII
+Description: 
+Amount: $55.0
+Goal: (None)
+
+1 - Bid option
+Incentive: CptSmokey
+Game: Final Fantasy VII
+Description: 
+Amount: $30.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Daniel
+Game: Final Fantasy VII
+Description: 
+Amount: $25.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Cloud&#39;s Name
+Game: Final Fantasy VII
+Description: Choose the name given to Cloud for the Final Fantasy VII run. 9 characters.
+Amount: $7,313.67
+Goal: (None)
+
+1 - Bid option
+Incentive: SpikeVege
+Game: Final Fantasy VII
+Description: 
+Amount: $3,876.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pvt Pyle
+Game: Final Fantasy VII
+Description: 
+Amount: $1,400.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zack
+Game: Final Fantasy VII
+Description: 
+Amount: $560.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Kanye
+Game: Final Fantasy VII
+Description: 
+Amount:  $320.1
+Goal: (None)
+
+1 - Bid option
+Incentive: HOT GRR
+Game: Final Fantasy VII
+Description: 
+Amount: $300.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Dude
+Game: Final Fantasy VII
+Description: 
+Amount: $225.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Cloud
+Game: Final Fantasy VII
+Description: 
+Amount: $205.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bimblor
+Game: Final Fantasy VII
+Description: 
+Amount: $107.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Spikey
+Game: Final Fantasy VII
+Description: 
+Amount: $70.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ben
+Game: Final Fantasy VII
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Knifeman
+Game: Final Fantasy VII
+Description: 
+Amount: $15.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Fix the Music
+Game: Final Fantasy VII
+Description: Doing the Midgar skip kills the music until the game ends. It costs time to fix it, but ajneb174 can do it for us.
+Amount: $7,049.51
+Goal: $7,000.00
+
+0 - Donation Goal
+Incentive: Omnislash Sephiroth
+Game: Final Fantasy VII
+Description: Want Cloud to ruin Sephiroth&#39;s day? Donate for this to send him off with a bang.
+Amount: $20,215.00
+Goal: $20,000.00
+
+0 - Bid War
+Incentive: Red XIII&#39;s Name
+Game: Final Fantasy VII
+Description: Choose the name given to Red XIII for the Final Fantasy VII run. 9 characters.
+Amount: $6,694.61
+Goal: (None)
+
+1 - Bid option
+Incentive: LegDog
+Game: Final Fantasy VII
+Description: 
+Amount: $2,680.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Doggo
+Game: Final Fantasy VII
+Description: 
+Amount: $1,779.8
+Goal: (None)
+
+1 - Bid option
+Incentive: TekkiesBF
+Game: Final Fantasy VII
+Description: 
+Amount: $507.3
+Goal: (None)
+
+1 - Bid option
+Incentive: MrWoof
+Game: Final Fantasy VII
+Description: 
+Amount: $460.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Nanaki
+Game: Final Fantasy VII
+Description: 
+Amount: $250.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Clifford
+Game: Final Fantasy VII
+Description: 
+Amount: $195.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Fishboi
+Game: Final Fantasy VII
+Description: 
+Amount: $155.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Servitor
+Game: Final Fantasy VII
+Description: 
+Amount: $150.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Omega Red
+Game: Final Fantasy VII
+Description: 
+Amount: $141.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Moggy
+Game: Final Fantasy VII
+Description: 
+Amount: $85.0
+Goal: (None)
+
+1 - Bid option
+Incentive: pupper
+Game: Final Fantasy VII
+Description: 
+Amount: $68.0
+Goal: (None)
+
+1 - Bid option
+Incentive: BnlsPizza
+Game: Final Fantasy VII
+Description: 
+Amount: $20.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Albert E
+Game: Final Fantasy VII
+Description: 
+Amount: $15.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Yetee
+Game: Final Fantasy VII
+Description: 
+Amount: $15.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Liar
+Game: Final Fantasy VII
+Description: 
+Amount: $7.7
+Goal: (None)
+
+0 - Bid War
+Incentive: Tifa&#39;s Name
+Game: Final Fantasy VII
+Description: Choose the name given to Tifa for the Final Fantasy VII run. 9 characters.
+Amount: $7,987.35
+Goal: (None)
+
+1 - Bid option
+Incentive: Beefaroni
+Game: Final Fantasy VII
+Description: 
+Amount: $3,535.8
+Goal: (None)
+
+1 - Bid option
+Incentive: PnutButtr
+Game: Final Fantasy VII
+Description: 
+Amount: $2,162.0
+Goal: (None)
+
+1 - Bid option
+Incentive: BeefJerky
+Game: Final Fantasy VII
+Description: 
+Amount: $1,469.0
+Goal: (None)
+
+1 - Bid option
+Incentive: 2B
+Game: Final Fantasy VII
+Description: 
+Amount: $357.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Aerith
+Game: Final Fantasy VII
+Description: 
+Amount: $263.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Sephiroth
+Game: Final Fantasy VII
+Description: 
+Amount: $95.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Szudds
+Game: Final Fantasy VII
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: TheMary27
+Game: Final Fantasy VII
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Poxnor
+Game: Final Fantasy VII
+Description: 
+Amount: $10.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Demonstrate Out of Bounds Glitch
+Game: The Maitre D
+Description: Nerd_Squared will show off an amusing out of bounds glitch during his The Maitre D run.
+Amount: $3,003.00
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: MRVN
+Game: Titanfall 2
+Description: The MRVN is a small, adorable little robot that An Angry Albino will have to deal with during his Titanfall 2 run. Will he destroy it for its valuable arc tool? Or will he spare it for the adorable animation? You decide.
+Amount: $5,004.88
+Goal: (None)
+
+1 - Bid option
+Incentive: Spare the MRVN
+Game: Titanfall 2
+Description: 
+Amount: $4,297.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Destroy the MRVN
+Game: Titanfall 2
+Description: 
+Amount: $707.5
+Goal: (None)
+
+0 - Bid War
+Incentive: Choose the Character Name
+Game: Diablo 2: Lord of Destruction
+Description: Choose the name given to the player character for the Diablo 2 run.
+Amount: $7,356.49
+Goal: (None)
+
+1 - Bid option
+Incentive: ChrisWilson
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $2,343.9
+Goal: (None)
+
+1 - Bid option
+Incentive: RyuQuezacotl
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $1,186.0
+Goal: (None)
+
+1 - Bid option
+Incentive: RunnersChoice
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $801.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Kripp
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $667.5
+Goal: (None)
+
+1 - Bid option
+Incentive: a train
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $607.2
+Goal: (None)
+
+1 - Bid option
+Incentive: WatchOutForSnakes
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $548.2
+Goal: (None)
+
+1 - Bid option
+Incentive: DoritoDew
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $350.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Sultan McDoom
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $320.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Nefastus
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $110.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Thick McRunfast
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $100.0
+Goal: (None)
+
+1 - Bid option
+Incentive: XxDethTrapPVPxX
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $80.0
+Goal: (None)
+
+1 - Bid option
+Incentive: EliteMuffinCrew
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $70.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bramblepelt
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $57.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Vapenation
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Rymoo
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $30.0
+Goal: (None)
+
+1 - Bid option
+Incentive: TheMary27
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $30.0
+Goal: (None)
+
+1 - Bid option
+Incentive: FluffyPinkyPoo
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $5.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Gary
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $0.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Decide the fate of Deckard Cain
+Game: Diablo 2: Lord of Destruction
+Description: Everyone&#39;s favourite identification bot needs our help. Do we rescue him, or leave him to rot in his cage?
+Amount: $9,455.51
+Goal: (None)
+
+1 - Bid option
+Incentive: Save him
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $7,048.2
+Goal: (None)
+
+1 - Bid option
+Incentive: Leave him
+Game: Diablo 2: Lord of Destruction
+Description: 
+Amount: $2,407.2
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Secret Cow Level
+Game: Diablo 2: Lord of Destruction
+Description: If met, MrLlamaSC will enter the Secret Cow Level and lay waste to all that is both hellish and bovine in nature.
+Amount: $25,143.67
+Goal: $25,000.00
+
+0 - Donation Goal
+Incentive: BONUS GAME: Dark Souls
+Game: Dark Souls
+Description: Replace SETUP BLOCK 4 with an Any% w/ Kiln Skip run of Dark Souls by BubblesDelFuego.
+Amount: $50,074.32
+Goal: $50,000.00
+
+0 - Bid War
+Incentive: Choose the Filename
+Game: Dark Souls
+Description: Choose the filename used for the Dark Souls 1 run. 13 character limit.
+Amount: $2,431.00
+Goal: (None)
+
+1 - Bid option
+Incentive: ENB
+Game: Dark Souls
+Description: 
+Amount: $1,030.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Dayman
+Game: Dark Souls
+Description: 
+Amount: $441.0
+Goal: (None)
+
+1 - Bid option
+Incentive: WhatRingsUGot?
+Game: Dark Souls
+Description: 
+Amount: $235.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Solaire
+Game: Dark Souls
+Description: 
+Amount: $222.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Got2Bradical
+Game: Dark Souls
+Description: 
+Amount: $200.0
+Goal: (None)
+
+1 - Bid option
+Incentive: GOTTA GOFAST
+Game: Dark Souls
+Description: 
+Amount: $93.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Avocado Toast
+Game: Dark Souls
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Slurmp
+Game: Dark Souls
+Description: 
+Amount: $60.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mamy Nova
+Game: Dark Souls
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Onion Bro
+Game: Dark Souls
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bartersnar
+Game: Dark Souls
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ittapupu
+Game: Dark Souls
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Wytch
+Game: Dark Souls
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: lobosHotD
+Game: Dark Souls
+Description: 
+Amount: $0.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Filename Choice
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: Choose the Filename used for the Majora&#39;s Mask run. 8 characters.
+Amount: $30,443.06
+Goal: (None)
+
+1 - Bid option
+Incentive: Lonk
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $10,182.4
+Goal: (None)
+
+1 - Bid option
+Incentive: BEN
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $5,722.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Bilbo
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $4,498.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Slurmp
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $2,755.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Loafus
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $1,585.0
+Goal: (None)
+
+1 - Bid option
+Incentive: bbaSHOOK
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $1,270.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zeldaaaa
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $935.4
+Goal: (None)
+
+1 - Bid option
+Incentive: KreyGasm
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $345.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Gary
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $317.0
+Goal: (None)
+
+1 - Bid option
+Incentive: G.O.A.T.
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $246.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Quixote
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $218.0
+Goal: (None)
+
+1 - Bid option
+Incentive: trevRoll
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $205.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Squanchy
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $151.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Melvin
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $119.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Majora
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $114.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Troop
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $105.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mario
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $85.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Robbie
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $60.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pringle
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $55.0
+Goal: (None)
+
+1 - Bid option
+Incentive: jlsfjlahj
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pizzafst
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $40.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Kieri
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Rolfis
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $20.0
+Goal: (None)
+
+1 - Bid option
+Incentive: majinD
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $15.0
+Goal: (None)
+
+1 - Bid option
+Incentive: squeept
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $12.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Sean
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Stink
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: 
+Amount: $10.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Glitch Exhibition
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: TrevPerson will show off some cool glitches not used in speedruns after his Majora&#39;s Mask run.
+Amount: $30,087.50
+Goal: $30,000.00
+
+0 - Donation Goal
+Incentive: BONUS GAME: The Legend of Zelda: Breath of the Wild
+Game: The Legend of Zelda: Breath of the Wild
+Description: Replace SETUP BLOCK 5 with an Any% run of Zelda: Breath of the Wild by Orcastraw.
+Amount: $101,303.44
+Goal: $100,000.00
+
+0 - Donation Goal
+Incentive: BONUS GAME: Portal 2
+Game: Portal 2
+Description: Replace the SUPER SECRET BONUS SETUP BLOCK with a run of Portal 2 solo coop by Azorae.
+Amount: $201,522.33
+Goal: $200,000.00
+
+0 - Bid War
+Incentive: Dog&#39;s Name
+Game: Earthbound
+Description: Choose the name given to the Dog for the Earthbound run. 6 characters.
+Amount: $12,735.02
+Goal: (None)
+
+1 - Bid option
+Incentive: FrnkrZ
+Game: Earthbound
+Description: 
+Amount: $3,872.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Becky
+Game: Earthbound
+Description: 
+Amount: $3,163.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Dog
+Game: Earthbound
+Description: 
+Amount: $1,646.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Link
+Game: Earthbound
+Description: 
+Amount: $540.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Gumbo
+Game: Earthbound
+Description: 
+Amount: $346.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Kitty
+Game: Earthbound
+Description: 
+Amount: $275.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Rowlf
+Game: Earthbound
+Description: 
+Amount: $215.0
+Goal: (None)
+
+1 - Bid option
+Incentive: biggeD
+Game: Earthbound
+Description: 
+Amount: $200.0
+Goal: (None)
+
+1 - Bid option
+Incentive: LucyZ
+Game: Earthbound
+Description: 
+Amount: $200.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Gerby
+Game: Earthbound
+Description: 
+Amount: $140.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mic
+Game: Earthbound
+Description: 
+Amount: $125.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Betty
+Game: Earthbound
+Description: 
+Amount: $115.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Rise
+Game: Earthbound
+Description: 
+Amount: $80.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Tessie
+Game: Earthbound
+Description: 
+Amount: $65.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Nunukins
+Game: Earthbound
+Description: 
+Amount: $20.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Sadie
+Game: Earthbound
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: NINT
+Game: Earthbound
+Description: 
+Amount: $8.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ghost
+Game: Earthbound
+Description: 
+Amount: $1.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Favourite Food
+Game: Earthbound
+Description: Choose your Favourite Food for the Earthbound run. 6 characters.
+Amount: $12,452.02
+Goal: (None)
+
+1 - Bid option
+Incentive: Anime
+Game: Earthbound
+Description: 
+Amount: $5,946.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pesto
+Game: Earthbound
+Description: 
+Amount: $2,575.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Lantis
+Game: Earthbound
+Description: 
+Amount: $1,600.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pizza
+Game: Earthbound
+Description: 
+Amount: $880.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Toby
+Game: Earthbound
+Description: 
+Amount: $416.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Gungan
+Game: Earthbound
+Description: 
+Amount: $329.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Soap
+Game: Earthbound
+Description: 
+Amount: $281.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pie
+Game: Earthbound
+Description: 
+Amount: $110.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Memes
+Game: Earthbound
+Description: 
+Amount: $76.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Dog
+Game: Earthbound
+Description: 
+Amount: $35.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Sushi
+Game: Earthbound
+Description: 
+Amount: $30.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Plorts
+Game: Earthbound
+Description: 
+Amount: $20.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Spaghe
+Game: Earthbound
+Description: 
+Amount: $16.0
+Goal: (None)
+
+1 - Bid option
+Incentive: bits
+Game: Earthbound
+Description: 
+Amount: $15.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Favourite Thing
+Game: Earthbound
+Description: Choose your Favourite Thing for the Earthbound run. 6 characters.
+Amount: $12,932.03
+Goal: (None)
+
+1 - Bid option
+Incentive: R.N.G.
+Game: Earthbound
+Description: 
+Amount: $4,595.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Bepis
+Game: Earthbound
+Description: 
+Amount: $4,570.3
+Goal: (None)
+
+1 - Bid option
+Incentive: BUSTIN
+Game: Earthbound
+Description: 
+Amount: $2,414.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Anime
+Game: Earthbound
+Description: 
+Amount: $648.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda1
+Game: Earthbound
+Description: 
+Amount: $270.0
+Goal: (None)
+
+1 - Bid option
+Incentive: LLAMAS
+Game: Earthbound
+Description: 
+Amount: $225.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Memes
+Game: Earthbound
+Description: 
+Amount: $158.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Love
+Game: Earthbound
+Description: 
+Amount: $15.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Kdood
+Game: Earthbound
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: HODOR!
+Game: Earthbound
+Description: 
+Amount: $2.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Fuzzy Pickles Photos
+Game: Earthbound
+Description: There are 32 photos taken by the Fuzzy Pickles Man that play during the end credits. UltimoIce will collect all of them before he finishes his Earthbound run.
+Amount: $33,770.77
+Goal: $32,000.00
+
+0 - Bid War
+Incentive: Jeff&#39;s Name
+Game: Earthbound
+Description: Choose the name given to Jeff for the Earthbound run. 5 characters.
+Amount: $4,879.81
+Goal: (None)
+
+1 - Bid option
+Incentive: Morty
+Game: Earthbound
+Description: 
+Amount: $2,327.2
+Goal: (None)
+
+1 - Bid option
+Incentive: Hella
+Game: Earthbound
+Description: 
+Amount: $2,141.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Jeff
+Game: Earthbound
+Description: 
+Amount: $355.0
+Goal: (None)
+
+1 - Bid option
+Incentive: MOTHR
+Game: Earthbound
+Description: 
+Amount: $13.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Lumpy
+Game: Earthbound
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Jorge
+Game: Earthbound
+Description: 
+Amount: $2.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Bran
+Game: Earthbound
+Description: 
+Amount: $1.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Ness&#39;s Name
+Game: Earthbound
+Description: Choose the name given to Ness for the Earthbound run. 5 characters.
+Amount: $16,781.60
+Goal: (None)
+
+1 - Bid option
+Incentive: Sans
+Game: Earthbound
+Description: 
+Amount: $3,786.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Itoi
+Game: Earthbound
+Description: 
+Amount: $2,774.9
+Goal: (None)
+
+1 - Bid option
+Incentive: BUNS
+Game: Earthbound
+Description: 
+Amount: $2,030.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Jeff
+Game: Earthbound
+Description: 
+Amount: $1,797.4
+Goal: (None)
+
+1 - Bid option
+Incentive: dolan
+Game: Earthbound
+Description: 
+Amount: $1,782.4
+Goal: (None)
+
+1 - Bid option
+Incentive: John
+Game: Earthbound
+Description: 
+Amount: $1,454.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Eetey
+Game: Earthbound
+Description: 
+Amount: $1,442.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Ratix
+Game: Earthbound
+Description: 
+Amount: $1,432.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Yetee
+Game: Earthbound
+Description: 
+Amount: $235.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Jon
+Game: Earthbound
+Description: 
+Amount: $1.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Out of Bounds Demonstration
+Game: Earthbound
+Description: UltimoIce will demonstrate setting up an Out of Bounds glitch file before his Earthbound run.
+Amount: $25,268.29
+Goal: $25,000.00
+
+0 - Bid War
+Incentive: Paula&#39;s Name
+Game: Earthbound
+Description: Choose the name given to Paula for the Earthbound run. 5 characters.
+Amount: $11,649.50
+Goal: (None)
+
+1 - Bid option
+Incentive: Jestr
+Game: Earthbound
+Description: 
+Amount: $5,620.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Maman
+Game: Earthbound
+Description: 
+Amount: $5,238.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Sond
+Game: Earthbound
+Description: 
+Amount: $195.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Angie
+Game: Earthbound
+Description: 
+Amount: $125.0
+Goal: (None)
+
+1 - Bid option
+Incentive: LANDY
+Game: Earthbound
+Description: 
+Amount: $100.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ana
+Game: Earthbound
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Grace
+Game: Earthbound
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Paula
+Game: Earthbound
+Description: 
+Amount: $17.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Jenja
+Game: Earthbound
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Petch
+Game: Earthbound
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Paige
+Game: Earthbound
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Peach
+Game: Earthbound
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Sansa
+Game: Earthbound
+Description: 
+Amount: $1.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Player Name
+Game: Earthbound
+Description: Choose the name given to the Player for the Earthbound run. 24 characters.
+Amount: $52,220.94
+Goal: (None)
+
+1 - Bid option
+Incentive: Iwata
+Game: Earthbound
+Description: 
+Amount: $21,230.6
+Goal: (None)
+
+1 - Bid option
+Incentive: REGGIE GIVE US MOTHER 3!
+Game: Earthbound
+Description: 
+Amount: $18,534.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Frisk
+Game: Earthbound
+Description: 
+Amount: $5,223.0
+Goal: (None)
+
+1 - Bid option
+Incentive: JEFFSJEFFSJEFFSJEFFSJEFF
+Game: Earthbound
+Description: 
+Amount: $3,397.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Legalize Mother 3
+Game: Earthbound
+Description: 
+Amount: $1,632.0
+Goal: (None)
+
+1 - Bid option
+Incentive: TINYRICK
+Game: Earthbound
+Description: 
+Amount: $752.2
+Goal: (None)
+
+1 - Bid option
+Incentive: dolan
+Game: Earthbound
+Description: 
+Amount: $530.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Master Giygas
+Game: Earthbound
+Description: 
+Amount: $271.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Cha Boi Doizy
+Game: Earthbound
+Description: 
+Amount: $266.0
+Goal: (None)
+
+1 - Bid option
+Incentive: BizzyMoose
+Game: Earthbound
+Description: 
+Amount: $65.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Valar Morghulis
+Game: Earthbound
+Description: 
+Amount: $57.0
+Goal: (None)
+
+1 - Bid option
+Incentive: PEPSI
+Game: Earthbound
+Description: 
+Amount: $35.0
+Goal: (None)
+
+1 - Bid option
+Incentive: ShowerGuy
+Game: Earthbound
+Description: 
+Amount: $20.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Poo&#39;s Name
+Game: Earthbound
+Description: Choose the name given to Poo (the character) for the Earthbound run. 5 characters.
+Amount: $5,732.98
+Goal: (None)
+
+1 - Bid option
+Incentive: MELVN
+Game: Earthbound
+Description: 
+Amount: $1,640.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Chris
+Game: Earthbound
+Description: 
+Amount: $1,110.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ness
+Game: Earthbound
+Description: 
+Amount: $1,086.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Micro
+Game: Earthbound
+Description: 
+Amount: $655.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Bohij
+Game: Earthbound
+Description: 
+Amount: $515.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Nog
+Game: Earthbound
+Description: 
+Amount: $225.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zuko
+Game: Earthbound
+Description: 
+Amount: $175.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Poo
+Game: Earthbound
+Description: 
+Amount: $145.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Plort
+Game: Earthbound
+Description: 
+Amount: $55.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Kato
+Game: Earthbound
+Description: 
+Amount: $15.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Biiny
+Game: Earthbound
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Tien
+Game: Earthbound
+Description: 
+Amount: $10.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ringo
+Game: Earthbound
+Description: 
+Amount: $7.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Arya
+Game: Earthbound
+Description: 
+Amount: $1.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Shattered Man Glitch
+Game: Earthbound
+Description: The Shattered Man glitch is a post-Giygas glitch involving killing off your entire party and haunting the world, before completing the game and watching the credits. UltimoIce will show it off here.
+Amount: $50,454.99
+Goal: $50,000.00
+
+0 - Bid War
+Incentive: Which is the best Mother game?
+Game: Earthbound
+Description: We all love the Mother games, they&#39;re a huge part of gaming history. But which is the best? You decide, vote here.
+Amount: $1,550.00
+Goal: (None)
+
+1 - Bid option
+Incentive: Mother 2 (Earthbound)
+Game: Earthbound
+Description: 
+Amount: $955.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mother 3
+Game: Earthbound
+Description: 
+Amount: $490.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mother 1
+Game: Earthbound
+Description: 
+Amount: $105.0
+Goal: (None)
+

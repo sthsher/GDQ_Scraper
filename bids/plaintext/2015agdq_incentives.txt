@@ -1,0 +1,2366 @@
+0 - Donation Goal
+Incentive: 100%
+Game: Banjo-Kazooie
+Description: 
+Amount: $1,641.00
+Goal: $1,000.00
+
+0 - Bid War
+Incentive: Character Bid War
+Game: Mario Kart Wii
+Description: Bid war to determine if the runner will use Funky Kong or Rosalina during the run.
+Amount: $2,961.40
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Funky Kong
+Game: Mario Kart Wii
+Description: 
+Amount: $1,556.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Rosalina
+Game: Mario Kart Wii
+Description: 
+Amount: $1,404.5
+Goal: (None)
+
+0 - Donation Goal
+Incentive: TASbot adds an extra lap
+Game: TASbot plays MK64
+Description: TASbot plays through an extra lap during Mario Kart 64, taking a moment to show some of his newer tricks with the extra time.
+Amount: $3,073.63
+Goal: $3,000.00
+
+0 - Donation Goal
+Incentive: Hard Mode Incentive
+Game: Sparkster
+Description: A donation incentive for Sparkster runner Tonic to play Sparkster on the Hard Difficulty, drastically increasing the difficulty of the run and providing a greater challenge.
+Amount: $1,091.00
+Goal: $1,000.00
+
+0 - Donation Goal
+Incentive: Achieve S-Rank and/or Crazy Rank in arcade mode.
+Game: Crazy Taxi
+Description: Tiered donation incentive for the runner to achieve S-Rank ($5000 made in game) or Crazy Rank ($20000 made in game) during arcade mode. The S-Rank incentive is achieved at $500, Crazy Rank at $2000. This incentive forces the runners to play towards big money and big ranks.
+Amount: $1,052.00
+Goal: $2,000.00
+
+0 - Bid War
+Incentive: File name bid war
+Game: Crazy Taxi
+Description: Bid war to name the file for the run (3 characters max)
+Amount: $31.42
+Goal: (None)
+
+1 - Bid option
+Incentive: RSA
+Game: Crazy Taxi
+Description: 
+Amount: $31.4
+Goal: (None)
+
+0 - Bid War
+Incentive: Super Monkey Ball: Character Bid War
+Game: Super Monkey Ball
+Description: Play as Aiai, Meemee, Baby or Gongon.
+Amount: $328.99
+Goal: (None)
+
+1 - Bid option
+Incentive: Gongon
+Game: Super Monkey Ball
+Description: 
+Amount: $197.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Aiai
+Game: Super Monkey Ball
+Description: 
+Amount: $75.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Baby
+Game: Super Monkey Ball
+Description: 
+Amount: $46.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Meemee
+Game: Super Monkey Ball
+Description: 
+Amount: $10.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: VVVVVV Bonus Game after
+Game: Marble Blast Ultra
+Description: Bonus Game! VVVVVV by FieryBlizzard. Takes place in setup block after Marble Blast Ultra!
+Amount: $3,333.72
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: Hero/Dark Story Bid War
+Game: Sonic Adventure 2 Battle
+Description: 
+Amount: $2,095.51
+Goal: (None)
+
+1 - Bid option
+Incentive: Dark Story
+Game: Sonic Adventure 2 Battle
+Description: 
+Amount: $1,642.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Hero Story
+Game: Sonic Adventure 2 Battle
+Description: 
+Amount: $453.5
+Goal: (None)
+
+0 - Bid War
+Incentive: Team Bid War
+Game: Sonic Heroes
+Description: Bid War to decide which team is used during the run.
+Amount: $4,333.51
+Goal: (None)
+
+1 - Bid option
+Incentive: Team Rose
+Game: Sonic Heroes
+Description: 
+Amount: $1,735.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Team Dark
+Game: Sonic Heroes
+Description: 
+Amount: $1,473.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Team Sonic
+Game: Sonic Heroes
+Description: 
+Amount: $842.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Team Chaotix
+Game: Sonic Heroes
+Description: 
+Amount: $281.2
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Death Race incentive
+Game: F-Zero X
+Description: A donation incentive for F-Zero X runner WMJ to complete the bonus &quot;Death Race&quot; after completing the main run. &quot;Death Race&quot; is a chaotic level, focused on satiating Captain Falcon&#39;s bloodlust for his fellow racers.
+Amount: $5,205.00
+Goal: $5,000.00
+
+0 - Donation Goal
+Incentive: Secret Stages Incentive
+Game: Battleblock Theater
+Description: A donation incentive for Battleblock Theater runners PJ and MechaRichter complete the secret stages. These incredibly gimmicky stages are entirely optional, and contain one of the best songs in any video game ever.
+Amount: $5,045.00
+Goal: $5,000.00
+
+0 - Bid War
+Incentive: Character Bid War
+Game: Metal Slug Advance
+Description: Bid War to determine if the runner plays as Walter or Tyra
+Amount: $421.99
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Tyra
+Game: Metal Slug Advance
+Description: 
+Amount: $249.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Walter
+Game: Metal Slug Advance
+Description: 
+Amount: $172.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Warpless% Incentive
+Game: Battletoads
+Description: A donation incentive for Battletoads runners jc538 and TheMexicanRunner to use the No Warps route. Wookie Hole, Surf City, and many more levels will be skipped if this incentive isn&#39;t met. And what&#39;s a Battletoads speedrun if it doesn&#39;t include all the torture Sega created in 1991?
+Amount: $3,065.00
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: 100% (Save Girlfriend) vs Any% (Don&#39;t Save Girlfriend) Bid War
+Game: River City Ransom
+Description: Bid War to determine if the runner will save the girlfriend and do the 100% route or not save her and do the any% route.
+Amount: $1,552.70
+Goal: (None)
+
+1 - Bid option
+Incentive: Save the Girlfriend (100% route)
+Game: River City Ransom
+Description: 
+Amount: $1,205.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Don&#39;t save the Girlfriend (any% route)
+Game: River City Ransom
+Description: 
+Amount: $347.6
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Best Ending Incentive
+Game: Gimmick!
+Description: A donation incentive for Gimmick! runner Cyghfer to achieve the best ending of Gimmick!. This involves collecting secret items, doing an additional stage, and beating the REAL final boss. If this incentive isn&#39;t met, then Mr. Gimmick will be unable to save a young girl that&#39;s been trapped in the evil toy world. Do you really want that on your conscious?
+Amount: $1,000.04
+Goal: $1,000.00
+
+0 - Donation Goal
+Incentive: Community Bonus Game Block
+Game: Gimmick!
+Description: A donation bid to add three bonus games to take place after Gimmick! These three runs are: Blaster Master (PAL%) by coolkid, a Lawn Mower race with Bony, Nightmare, and Blechy, and a Die Hard run by KirkQtpie. These three runs are community favorites, featuring broken gameplay, the excitement of mowing lawns, and an AGDQ 2013 classic is making a return.
+Amount: $2,051.14
+Goal: $2,000.00
+
+0 - Bid War
+Incentive: Character Bid War
+Game: Goof Troop
+Description: Bid War to determine which character the runners will use during their race: Goofy or Max
+Amount: $468.19
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Goofy
+Game: Goof Troop
+Description: 
+Amount: $388.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Max
+Game: Goof Troop
+Description: 
+Amount: $80.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Break the camera
+Game: Whizz
+Description: A donation incentive for the Whizz runner __sdfg to perform a glitch that breaks the camera in two specific levels. Watch a rabbit forced onto a different place of existence!
+Amount: $1,024.25
+Goal: $1,000.00
+
+0 - Donation Goal
+Incentive: Rayman Legends: Kung Foot Bonus
+Game: Rayman Legends
+Description: Donate to get CaneofPacci, SpikeVegeta, Spare747, and FearfulFerret/Nitroski to play extra 5 minute game of Kung Foot after the end of the run.
+Amount: $1,959.01
+Goal: $3,000.00
+
+0 - Donation Goal
+Incentive: 100% incentive.
+Game: I wanna be the Boshy
+Description: A donation incentive for I wanna be the Boshy runner Witwix to complete the 100% route. This involves beating every boss and collecting every item, soundtrack, and character. Watch Kappa finally get taken down, and the Cheetahmen supremacy end!
+Amount: $5,100.86
+Goal: $5,000.00
+
+0 - Bid War
+Incentive: File name bid war
+Game: Zelda II: The Adventure of Link
+Description: Bid war to name the file name. (Note this is only for the regular run as the NG+ run requires a pre-made file with a set name.) 8 characters max
+Amount: $646.50
+Goal: (None)
+
+1 - Bid option
+Incentive: GERMENCH
+Game: Zelda II: The Adventure of Link
+Description: 
+Amount: $561.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Feasel
+Game: Zelda II: The Adventure of Link
+Description: 
+Amount: $65.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zeldo
+Game: Zelda II: The Adventure of Link
+Description: 
+Amount: $20.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Glitched% Run Incentive
+Game: Zelda II: The Adventure of Link
+Description: A donation incentive for Zelda II: The Adventure of Link runner Pro_JN to do an additional run using the glitched route. Link is going to take a unique and terrifying trip through Hyrule thanks to wonderful, wonderful glitches.
+Amount: $1,250.00
+Goal: $1,250.00
+
+0 - Bid War
+Incentive: File name bid war
+Game: The Legend of Zelda
+Description: Bid war to name the file names for both runners during the race of LoZ. (6 file slots, with a max of 8 characters each) Note: Zelda can&#39;t be used for the file name the runners use to run the game.
+Amount: $934.00
+Goal: (None)
+
+1 - Bid option
+Incentive: BeryTube
+Game: The Legend of Zelda
+Description: 
+Amount: $340.0
+Goal: (None)
+
+1 - Bid option
+Incentive: MikeK
+Game: The Legend of Zelda
+Description: 
+Amount: $310.0
+Goal: (None)
+
+1 - Bid option
+Incentive: BlameTK
+Game: The Legend of Zelda
+Description: 
+Amount: $150.0
+Goal: (None)
+
+1 - Bid option
+Incentive: NCSUN
+Game: The Legend of Zelda
+Description: 
+Amount: $79.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zeldo
+Game: The Legend of Zelda
+Description: 
+Amount: $55.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Good Ending
+Game: Silent Hill
+Description: A donation incentive for Silent Hill runner tekkie to achieve the Good Ending. Kill more bad guys, summon more demons! The two natural ingredients for achieving a better ending.
+Amount: $2,070.55
+Goal: $2,000.00
+
+0 - Donation Goal
+Incentive: Bonus Any% Run
+Game: The Elder Scrolls III: Morrowind
+Description: A donation incentive for Elder Scrolls III: Morrowind runner AlbinoAlbatross to complete an any% run after completing the marathon run. This short run shows the wonders of Morrowind from the perspective of a bird! Or a human being flying high through the sky.
+Amount: $3,285.00
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: Character Name
+Game: The Elder Scrolls III: Morrowind
+Description: Bid war to name the player character during the run (Maximum of 31 characters)
+Amount: $6,629.18
+Goal: (None)
+
+1 - Bid option
+Incentive: Bob_Lennon
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $3,545.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Air Force Gator
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $2,771.6
+Goal: (None)
+
+1 - Bid option
+Incentive: I have no idea what I&#39;m doing
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $220.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Bead Bead
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $82.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Steals-Your-Stuff
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $10.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Character Race
+Game: The Elder Scrolls III: Morrowind
+Description: Bid War to choose the player characters race. Any of the games available races can be bid on.
+Amount: $3,197.45
+Goal: (None)
+
+1 - Bid option
+Incentive: Argonian
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $1,216.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Khajit
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $1,164.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Nord
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $200.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Orc
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $190.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Wood Elf
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $113.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Dark Elf
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $105.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Breton
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $71.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Imperial
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Redguard
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $46.0
+Goal: (None)
+
+1 - Bid option
+Incentive: High Elf
+Game: The Elder Scrolls III: Morrowind
+Description: 
+Amount: $40.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Kill The False God Vivec with a Lockpick
+Game: The Elder Scrolls III: Morrowind
+Description: Donation Incentive to kill Vivec with a lockpick.
+Amount: $1,506.91
+Goal: $1,500.00
+
+0 - Bid War
+Incentive: Descendant (Character) Name bid war
+Game: Rogue Legacy
+Description: Bid war to decide what names the descendants will have during the run. The top 4 Male and top 4 Female names will be used. Names can be 10 characters long (including spaces)
+Amount: $1,648.70
+Goal: (None)
+
+1 - Bid option
+Incentive: MisterMV
+Game: Rogue Legacy
+Description: 
+Amount: $1,077.0
+Goal: (None)
+
+1 - Bid option
+Incentive: PoleEmploi
+Game: Rogue Legacy
+Description: 
+Amount: $153.0
+Goal: (None)
+
+1 - Bid option
+Incentive: CAF
+Game: Rogue Legacy
+Description: 
+Amount: $85.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zach
+Game: Rogue Legacy
+Description: 
+Amount: $63.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Graven
+Game: Rogue Legacy
+Description: 
+Amount: $62.0
+Goal: (None)
+
+1 - Bid option
+Incentive: ChPerette
+Game: Rogue Legacy
+Description: 
+Amount: $51.6
+Goal: (None)
+
+1 - Bid option
+Incentive: SpcButrfly
+Game: Rogue Legacy
+Description: 
+Amount: $51.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Elark
+Game: Rogue Legacy
+Description: 
+Amount: $50.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mami
+Game: Rogue Legacy
+Description: 
+Amount: $31.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Starchaser
+Game: Rogue Legacy
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: ZachSK
+Game: Rogue Legacy
+Description: 
+Amount: $0.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Bard Run Incentive
+Game: Crypt of the Necrodancer
+Description: A donation incentive for Crypt of the Necrodancer runner Slackaholicus to do a Bard run. Bard runs allow for a significantly faster run, where ridiculous reaction times are needed to survive the groovy dungeons and dancing beasts.
+Amount: $750.00
+Goal: $750.00
+
+0 - Donation Goal
+Incentive: Blow up Providence with fireworks incentive.
+Game: Risk of Rain
+Description: A donation incentive for Risk of Rain runner Studio to blow up Providence with fireworks. Providence is the final boss of Risk of Rain, and Studio will show him his Fourth of July special.
+Amount: $762.00
+Goal: $750.00
+
+0 - Donation Goal
+Incentive: Turn on Blood incentive
+Game: Violent Storm
+Description: A donation incentive to turn on the Blood effects during the Violent Storm speedrun. The name of the game has Violent in it. It needs as much violence as possible!
+Amount: $750.00
+Goal: $750.00
+
+0 - Bid War
+Incentive: Character Bid War
+Game: Battletoads (arcade)
+Description: Bid War for the runner to play as 1 of the 3 toads: Zits, Rash, or Pimple.
+Amount: $2,400.00
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Pimple
+Game: Battletoads (arcade)
+Description: 
+Amount: $1,010.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Rash
+Game: Battletoads (arcade)
+Description: 
+Amount: $890.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Zitz
+Game: Battletoads (arcade)
+Description: 
+Amount: $500.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Max difficulty Incentive
+Game: Battletoads (arcade)
+Description: A donation incentive for Battletoads (arcade) runner PJ to play on Max difficulty. Arcade games are notorious for being difficult. Battletoads is notorious for being difficult. Witness the unnatural abomination of difficulty that is Battletoads on max difficulty!
+Amount: $765.00
+Goal: $750.00
+
+0 - Donation Goal
+Incentive: Max difficulty Incentive
+Game: Alien vs. Predator
+Description: A donation incentive for the Alien vs. Predator runner MURPHGATOR! to play on Max Difficulty. Similarly to Battletoads, this game is ludicrous on max difficulty.
+Amount: $750.00
+Goal: $750.00
+
+0 - Bid War
+Incentive: Character Bid War
+Game: Sonic 3 and Knuckles
+Description: Bid War for the game to be run with either Tails or Knuckles.
+Amount: $4,747.90
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Tails
+Game: Sonic 3 and Knuckles
+Description: 
+Amount: $2,834.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Knuckles
+Game: Sonic 3 and Knuckles
+Description: 
+Amount: $1,913.1
+Goal: (None)
+
+0 - Bid War
+Incentive: Character Bid War
+Game: Sonic Advance
+Description: Bid war to determine if the runners will play as Tails or Knuckles.
+Amount: $1,232.01
+Goal: (None)
+
+1 - Bid option
+Incentive: Tails
+Game: Sonic Advance
+Description: 
+Amount: $710.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Knuckles
+Game: Sonic Advance
+Description: 
+Amount: $522.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Ultimate Mode
+Game: Super Monkey Ball Deluxe
+Description: Donation Incentive to play on ultimate mode for the run.
+Amount: $1,970.93
+Goal: $1,250.00
+
+0 - Bid War
+Incentive: One hand bid war
+Game: Tetris: The Grandmaster exhibition
+Description: Bid war for Colour_theif to play the race 1 handed. The Bid war determines which hand he will use.
+Amount: $2,543.00
+Goal: (None)
+
+1 - Bid option
+Incentive: Left hand
+Game: Tetris: The Grandmaster exhibition
+Description: 
+Amount: $2,338.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Right hand
+Game: Tetris: The Grandmaster exhibition
+Description: 
+Amount: $205.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Secret Grade Incentive
+Game: Tetris: The Grandmaster exhibition
+Description: A donation incentive for one of the runners to obtain the Secret Grade during the exhibition. The Secret Grade involves playing Tetris a bit more artistically than normal. The exhibitionist will have to draw a &quot;&gt;&quot; shape while attempting to lose.
+Amount: $1,500.00
+Goal: $1,500.00
+
+0 - Bid War
+Incentive: Bid War for Armor Color
+Game: Shovel Knight
+Description: Bid war to decide which armor color scheme the runner will use during the run.
+Amount: $1,819.85
+Goal: (None)
+
+1 - Bid option
+Incentive: Pink
+Game: Shovel Knight
+Description: 
+Amount: $840.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Yellow
+Game: Shovel Knight
+Description: 
+Amount: $586.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Purple
+Game: Shovel Knight
+Description: 
+Amount: $176.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Default: Blue
+Game: Shovel Knight
+Description: 
+Amount: $170.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Red
+Game: Shovel Knight
+Description: 
+Amount: $27.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Green
+Game: Shovel Knight
+Description: 
+Amount: $20.0
+Goal: (None)
+
+0 - Bid War
+Incentive: File name bid war
+Game: Shovel Knight
+Description: Bid war to decide the file name during the run.
+Amount: $2,228.00
+Goal: (None)
+
+1 - Bid option
+Incentive: M.SAPIN
+Game: Shovel Knight
+Description: 
+Amount: $1,009.5
+Goal: (None)
+
+1 - Bid option
+Incentive: NEOGAF
+Game: Shovel Knight
+Description: 
+Amount: $715.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Shove it
+Game: Shovel Knight
+Description: 
+Amount: $186.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mamilami
+Game: Shovel Knight
+Description: 
+Amount: $115.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Scoops
+Game: Shovel Knight
+Description: 
+Amount: $90.0
+Goal: (None)
+
+1 - Bid option
+Incentive: &gt;alt
+Game: Shovel Knight
+Description: 
+Amount: $60.0
+Goal: (None)
+
+1 - Bid option
+Incentive: WSWWAEAW
+Game: Shovel Knight
+Description: 
+Amount: $42.5
+Goal: (None)
+
+1 - Bid option
+Incentive: SWJSROSY
+Game: Shovel Knight
+Description: 
+Amount: $10.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Save or Leave Behind the Knights
+Game: Shovel Knight
+Description: Bid War to have the runner either save the knights or leave them behind during the run.
+Amount: $2,357.85
+Goal: (None)
+
+1 - Bid option
+Incentive: Save The Knights
+Game: Shovel Knight
+Description: 
+Amount: $1,851.8
+Goal: (None)
+
+1 - Bid option
+Incentive: Leave the Knights behind
+Game: Shovel Knight
+Description: 
+Amount: $506.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Big Rigs: Over the Road Racing Bonus Game
+Game: Totally Rad
+Description: A donation incentive to add a Big Rigs: Over the Road Racing speedrun by Giant Bomb&#39;s Alex Navarro to the schedule. This will take place after Totally Rad.
+Amount: $1.00
+Goal: $1.00
+
+0 - Donation Goal
+Incentive: Big Rigs: Over the Road Racing Infinite Speed Showcase
+Game: Totally Rad
+Description: A donation incentive to have Big Rigs: Over the Road Racing incentive runner Alex Navarro show off the Infinite Speed glitch.
+Amount: $3,398.02
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: Character Bid War
+Game: Floating Runner
+Description: Bid War to decide if the runner uses Lay (the boy) or Cress (the girl) during the run.
+Amount: $374.01
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Cress
+Game: Floating Runner
+Description: 
+Amount: $211.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Play as Lay
+Game: Floating Runner
+Description: 
+Amount: $163.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: W-Fist% Incentive
+Game: Trio the Punch
+Description: A donation incentive for Trio the Punch runner ZakkyTheGoatragon to use the W-Fist% route. This is the character used in the W-Fist% route: http://i.imgur.com/BYN1ZJd.jpg
+Amount: $1,500.00
+Goal: $1,500.00
+
+0 - Donation Goal
+Incentive: Show Cutscenes
+Game: Radical Rex
+Description: A donation incentive for Radical Rex runner Omnigamer to show cutscenes during the run. Watch the RADICAL cutscenes of RADICAL 90s game RADICAL Rex.
+Amount: $1,746.55
+Goal: $1,500.00
+
+0 - Donation Goal
+Incentive: Donkey Kong Fight Incentive
+Game: Punch-Out!! (Wii)
+Description: A donation incentive for Punch-Out!! (Wii) runner Zallard1 to fight Donkey Kong. Donkey Kong is an optional match in Punch-Out!! As is the case in many optional fights, Donkey Kong pushes the difficulty of the game to a new level.
+Amount: $3,050.07
+Goal: $3,000.00
+
+0 - Donation Goal
+Incentive: 3 player Richter race
+Game: Castlevania: Symphony of the Night
+Description: Richter any% race between BenAuton, MechaRichter, and Zex
+Amount: $2,007.26
+Goal: $2,000.00
+
+0 - Donation Goal
+Incentive: Animal Crossing Bonus Game
+Game: Castlevania: Symphony of the Night
+Description: A donation incentive to run Animal Crossing (Clear All Debts) by Forstride. The world&#39;s most exciting bill payment simulator, done fast!
+Amount: $1,040.00
+Goal: $1,000.00
+
+0 - Donation Goal
+Incentive: Accordion %
+Game: Super Mario World 2: Yoshi&#39;s Island
+Description: Accordion %
+Amount: $872.50
+Goal: $500.00
+
+0 - Donation Goal
+Incentive: Select Blindfold Sections
+Game: Super Mario World 2: Yoshi&#39;s Island
+Description: After the main Super Mario World 2: Yoshi&#39;s Island run, there will be an additional blind playthrough of a few Yoshi&#39;s Island sections. These sections include
+Amount: $30,070.99
+Goal: $20,000.00
+
+0 - Bid War
+Incentive: Game Bid War
+Game:  Batman: Arkham bid war
+Description: Bid War to determine which game will be played at AGDQ2015: Arkham Asylum or Arkham City
+Amount: $8,356.50
+Goal: (None)
+
+1 - Bid option
+Incentive: Play Arkham City
+Game: Batman: Arkham bid war
+Description: 
+Amount: $4,863.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Play Arkham Asylum
+Game: Batman: Arkham bid war
+Description: 
+Amount: $3,493.4
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Stretching Ending Incentive
+Game: Half-Life 2 Episode 2
+Description: A donation incentive for Half-Life 2: Episode 2 runner Gocnak to achieve the &quot;Stretching&quot; alternate ending.
+Amount: $3,604.04
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: Good vs Bad Ending Bid War
+Game: Aperture Tag
+Description: Bid war to determine if the runner completes the game with the good or bad ending.
+Amount: $1,674.26
+Goal: (None)
+
+1 - Bid option
+Incentive: Good Ending
+Game: Aperture Tag
+Description: 
+Amount: $920.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Bad Ending
+Game: Aperture Tag
+Description: 
+Amount: $753.7
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Complete the &quot;Test Your Might&quot; challenge incentive
+Game: Trials Evolution
+Description: A donation incentive for Trials Evolution runner The Blaze JP to complete all 7 extreme tracks back to back after the main run is over. Suffice to say, these levels aren&#39;t joking when they call themselves extreme.
+Amount: $3,144.37
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: Language Bid War
+Game: Jak II
+Description: Bid war to determine what language the game will be played with during the run.
+Amount: $10,043.95
+Goal: (None)
+
+1 - Bid option
+Incentive: French language
+Game: Jak II
+Description: 
+Amount: $5,452.2
+Goal: (None)
+
+1 - Bid option
+Incentive: Korean language
+Game: Jak II
+Description: 
+Amount: $3,735.6
+Goal: (None)
+
+1 - Bid option
+Incentive: English language
+Game: Jak II
+Description: 
+Amount: $598.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Japanese language
+Game: Jak II
+Description: 
+Amount: $130.0
+Goal: (None)
+
+1 - Bid option
+Incentive: German language
+Game: Jak II
+Description: 
+Amount: $88.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Italian language
+Game: Jak II
+Description: 
+Amount: $40.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Spanish language
+Game: Jak II
+Description: 
+Amount: $0.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Abra name bid war
+Game: Pokemon Red/Blue
+Description: Bid War to name the pokemon Abra (10 characters max)
+Amount: $449.00
+Goal: (None)
+
+1 - Bid option
+Incentive: MrQuarate
+Game: Pokemon Red/Blue
+Description: 
+Amount: $449.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Bulbasaur name Bid War
+Game: Pokemon Red/Blue
+Description: Bid War to name the starter pokemon bulbasaur (10 characters max)
+Amount: $795.01
+Goal: (None)
+
+1 - Bid option
+Incentive: Morenpoul
+Game: Pokemon Red/Blue
+Description: 
+Amount: $560.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pendaflex
+Game: Pokemon Red/Blue
+Description: 
+Amount: $235.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Game Bid War
+Game: Pokemon Red/Blue
+Description: Bid war to determine whether Pokemon Red or Blue will be run during AGDQ2015
+Amount: $6,145.18
+Goal: (None)
+
+1 - Bid option
+Incentive: Pokemon Blue
+Game: Pokemon Red/Blue
+Description: 
+Amount: $3,219.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Pokemon Red
+Game: Pokemon Red/Blue
+Description: 
+Amount: $2,926.1
+Goal: (None)
+
+0 - Bid War
+Incentive: Trainer Name Bid War
+Game: Pokemon Red/Blue
+Description: Bid War to name the Pokemon Trainer (7 characters max)
+Amount: $6,374.14
+Goal: (None)
+
+1 - Bid option
+Incentive: Verdier
+Game: Pokemon Red/Blue
+Description: 
+Amount: $3,382.0
+Goal: (None)
+
+1 - Bid option
+Incentive: WooperZ
+Game: Pokemon Red/Blue
+Description: 
+Amount: $2,772.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Lemon
+Game: Pokemon Red/Blue
+Description: 
+Amount: $185.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Potatoz
+Game: Pokemon Red/Blue
+Description: 
+Amount: $35.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Normal vs Fusion suit bid war
+Game: Metroid Prime
+Description: Bid war to decide if the runner plays with the normal or fusion suit during the run.
+Amount: $1,971.50
+Goal: (None)
+
+1 - Bid option
+Incentive: Fusion Suit Samus
+Game: Metroid Prime
+Description: 
+Amount: $1,520.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Normal Suit Samus
+Game: Metroid Prime
+Description: 
+Amount: $451.0
+Goal: (None)
+
+0 - Bid War
+Incentive: File name bid war
+Game: The Legend of Zelda: The Minish Cap
+Description: Bid war to name the file for the run (6 characters maximum)
+Amount: $1,008.00
+Goal: (None)
+
+1 - Bid option
+Incentive: Bif
+Game: The Legend of Zelda: The Minish Cap
+Description: 
+Amount: $591.0
+Goal: (None)
+
+1 - Bid option
+Incentive: PupilX
+Game: The Legend of Zelda: The Minish Cap
+Description: 
+Amount: $200.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Octo
+Game: The Legend of Zelda: The Minish Cap
+Description: 
+Amount: $90.0
+Goal: (None)
+
+1 - Bid option
+Incentive: I,ISay
+Game: The Legend of Zelda: The Minish Cap
+Description: 
+Amount: $80.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zeldo
+Game: The Legend of Zelda: The Minish Cap
+Description: 
+Amount: $40.0
+Goal: (None)
+
+1 - Bid option
+Incentive: BlamTK
+Game: The Legend of Zelda: The Minish Cap
+Description: 
+Amount: $7.0
+Goal: (None)
+
+0 - Bid War
+Incentive: File name bid war
+Game: The Legend of Zelda: A Link to the Past
+Description: Bid war to name the various file names (4 characters max per file, 3 file slots)
+Amount: $2,379.86
+Goal: (None)
+
+1 - Bid option
+Incentive: Lunk
+Game: The Legend of Zelda: A Link to the Past
+Description: 
+Amount: $1,178.2
+Goal: (None)
+
+1 - Bid option
+Incentive: INEB
+Game: The Legend of Zelda: A Link to the Past
+Description: 
+Amount: $670.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Sven
+Game: The Legend of Zelda: A Link to the Past
+Description: 
+Amount: $265.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Zeldo
+Game: The Legend of Zelda: A Link to the Past
+Description: 
+Amount: $196.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda
+Game: The Legend of Zelda: A Link to the Past
+Description: 
+Amount: $70.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Mirror Blind vs Color Blind boss glitch bid war.
+Game: The Legend of Zelda: A Link to the Past
+Description: Bid war to have the runner perform a glitch to either A. make a pixelated mess or B. change the color pallets during the Blind Boss fight.
+Amount: $1,545.05
+Goal: (None)
+
+1 - Bid option
+Incentive: Mirror Blind Boss Fight
+Game: The Legend of Zelda: A Link to the Past
+Description: 
+Amount: $1,040.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Color Blind Boss Fight
+Game: The Legend of Zelda: A Link to the Past
+Description: 
+Amount: $505.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: White link sprite + Black sword glitch incentive
+Game: The Legend of Zelda: A Link to the Past
+Description: A donation incentive for the Link to the Past runner Andy to perform a glitch that makes Link&#39;s sprite white and his sword black. Link will abandon the Light World and Dark World to enter the Monochrome World.
+Amount: $1,068.84
+Goal: $999.99
+
+0 - Donation Goal
+Incentive: 2 Players 1 Controller Incentive
+Game: The Legend of Zelda: Majora&#39;s Mask
+Description: A donation incentive to play the first 20 minutes of the game with 2 players using 1 controller. Come get snug with the Majora&#39;s Mask community.
+Amount: $2,200.00
+Goal: $2,000.00
+
+0 - Bid War
+Incentive: File name bid war
+Game: Super Mario RPG: Legend of the Seven Stars
+Description: Bid War to name the file for the run, (8 characters max)
+Amount: $3,069.11
+Goal: (None)
+
+1 - Bid option
+Incentive: DNGR
+Game: Super Mario RPG: Legend of the Seven Stars
+Description: 
+Amount: $1,439.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Bonjour
+Game: Super Mario RPG: Legend of the Seven Stars
+Description: 
+Amount: $1,319.7
+Goal: (None)
+
+1 - Bid option
+Incentive: CashDiab
+Game: Super Mario RPG: Legend of the Seven Stars
+Description: 
+Amount: $310.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Kingdom Hearts Game Bid War
+Game: Kingdom Hearts 1 and 2 bid war
+Description: Bid War to decide which Kingdom Hearts Game will be run at AGDQ2015: KH1.5 or KH2FM
+Amount: $12,447.21
+Goal: (None)
+
+1 - Bid option
+Incentive: Kingdom Hearts II Final Mix
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $8,704.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Kingdom Hearts 1.5
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $3,742.6
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Level 1 Organization Data RTA incentive
+Game: Kingdom Hearts 1 and 2 bid war
+Description: A donation incentive for the Organization XIII data refights in KH2 to be defeated in a level 1 Critical Mode boss rush. Bizkit047 will push his skills to the limit break.
+Amount: $4,093.01
+Goal: $4,000.00
+
+0 - Bid War
+Incentive: Sing Disney Songs Bid War
+Game: Kingdom Hearts 1 and 2 bid war
+Description: Bid War for the runner/couch to sing various Disney Songs during the auto-scroller sections of the game. (Note: Would likey use the top 5 songs donated for, can do more or less depending on time available).
+Amount: $9,092.05
+Goal: (None)
+
+1 - Bid option
+Incentive: I&#39;ll Make a Man Out of You (Mulan)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $2,795.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Be Prepared (Lion King)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $2,014.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Let it Go (Frozen)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $1,053.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Gaston (Beauty and the Beast)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $757.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Friend Like Me (Aladdin)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $683.8
+Goal: (None)
+
+1 - Bid option
+Incentive: Go the Distance (Hercules)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $531.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Everybody Wants To Be A Cat (The Aristocats)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $325.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Higitus Figitus (Sword in the Stone)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $270.0
+Goal: (None)
+
+1 - Bid option
+Incentive: I Have a Dream (Tangled)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $247.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Poor Unfortunate Souls (The Little Mermaid)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $195.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Supercalifragilisticexpialidocious (Mary Poppins)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $174.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Kanine Krunchies Jingle (101 Dalmations)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $25.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Whistle Stop (Robin Hood)
+Game: Kingdom Hearts 1 and 2 bid war
+Description: 
+Amount: $20.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Hold hands%
+Game: Vanquish
+Description: In the true spirit of bromance, Halfcoordinated will hold Vulajin&#39;s hand for the rest of the run.
+Amount: $1,245.00
+Goal: $1,000.00
+
+0 - Donation Goal
+Incentive: Soda%
+Game: Vanquish
+Description: A donation incentive for Vanquish runner halfcoordinated to hold a soda bottle on his non-playing hand. halfcoordinated has enough style to always run Vanquish one-handed. In spite of this, why not give him something to do his free hand?
+Amount: $1,010.00
+Goal: $1,000.00
+
+0 - Bid War
+Incentive: Voice Track Bid War
+Game: Vanquish
+Description: Listen to the game in English, Japanese, Italian, Spanish, French, or German.
+Amount: $4,175.52
+Goal: (None)
+
+1 - Bid option
+Incentive: German
+Game: Vanquish
+Description: 
+Amount: $3,268.3
+Goal: (None)
+
+1 - Bid option
+Incentive: English
+Game: Vanquish
+Description: 
+Amount: $496.2
+Goal: (None)
+
+1 - Bid option
+Incentive: French
+Game: Vanquish
+Description: 
+Amount: $208.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Japanese
+Game: Vanquish
+Description: 
+Amount: $148.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Spanish
+Game: Vanquish
+Description: 
+Amount: $30.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Italian
+Game: Vanquish
+Description: 
+Amount: $25.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: All levels incentive
+Game: Perfect Dark
+Description: Donation incentive for the runner to complete all levels during the run. These include all levels from beating the game on the highest difficulty and the range. Take a step outside of Joanna&#39;s shoes for some Perfect Dark backstory only the elite get to play.
+Amount: $2,503.99
+Goal: $2,500.00
+
+0 - Donation Goal
+Incentive: Glitched% Run Incentive
+Game: Dark Souls 2
+Description: A donation incentive for Dark Souls 2 runner Noobest to do the &quot;Broken%&quot; run. This run breaks so much of Dark Souls 2 that it&#39;s been patched out and then some. Come explore some of the unique geometry of Dark Souls 2, and enjoy the boosting power of binoculars.
+Amount: $19,313.79
+Goal: $15,000.00
+
+0 - Donation Goal
+Incentive: Act out squats mini game incentive
+Game: Final Fantasy VII
+Description: Donation incentive to have runner/couch crew act out the squats mini game during the run.
+Amount: $4,267.26
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: Aerith Name Bid War
+Game: Final Fantasy VII
+Description: Bid War to name Aerith (9 characters max)
+Amount: $9,833.67
+Goal: (None)
+
+1 - Bid option
+Incentive: SeanBean
+Game: Final Fantasy VII
+Description: 
+Amount: $5,782.2
+Goal: (None)
+
+1 - Bid option
+Incentive: AerisDies
+Game: Final Fantasy VII
+Description: 
+Amount: $2,577.4
+Goal: (None)
+
+1 - Bid option
+Incentive: YOLO
+Game: Final Fantasy VII
+Description: 
+Amount: $605.0
+Goal: (None)
+
+1 - Bid option
+Incentive: TroyBaker
+Game: Final Fantasy VII
+Description: 
+Amount: $285.0
+Goal: (None)
+
+1 - Bid option
+Incentive: FFT
+Game: Final Fantasy VII
+Description: 
+Amount: $216.0
+Goal: (None)
+
+1 - Bid option
+Incentive: BowWoW
+Game: Final Fantasy VII
+Description: 
+Amount: $181.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Sephiroth
+Game: Final Fantasy VII
+Description: 
+Amount: $97.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Monitor
+Game: Final Fantasy VII
+Description: 
+Amount: $90.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Barret Name Bid War
+Game: Final Fantasy VII
+Description: Bid war to name Barret (9 characters max)
+Amount: $9,777.20
+Goal: (None)
+
+1 - Bid option
+Incentive: CalebHart
+Game: Final Fantasy VII
+Description: 
+Amount: $5,230.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Mamilami
+Game: Final Fantasy VII
+Description: 
+Amount: $3,396.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Stuart S
+Game: Final Fantasy VII
+Description: 
+Amount: $840.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Beyonce
+Game: Final Fantasy VII
+Description: 
+Amount: $174.2
+Goal: (None)
+
+1 - Bid option
+Incentive: Old Bobby
+Game: Final Fantasy VII
+Description: 
+Amount: $137.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Cloud Name Bid War
+Game: Final Fantasy VII
+Description: Bid War to name Cloud (9 characters max)
+Amount: $6,341.89
+Goal: (None)
+
+1 - Bid option
+Incentive: Ferdi
+Game: Final Fantasy VII
+Description: 
+Amount: $3,330.0
+Goal: (None)
+
+1 - Bid option
+Incentive: KartSeven
+Game: Final Fantasy VII
+Description: 
+Amount: $1,622.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Sharky
+Game: Final Fantasy VII
+Description: 
+Amount: $730.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Framboisier
+Game: Final Fantasy VII
+Description: 
+Amount: $450.0
+Goal: (None)
+
+1 - Bid option
+Incentive: ProdCloud
+Game: Final Fantasy VII
+Description: 
+Amount: $117.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Kirito
+Game: Final Fantasy VII
+Description: 
+Amount: $92.1
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Defeat Sephiroth with Omnislash incentive
+Game: Final Fantasy VII
+Description: Donation incentive to have the runner use Omnislash for the final blow to defeat Sephiroth.
+Amount: $5,140.52
+Goal: $3,000.00
+
+0 - Bid War
+Incentive: Red XIII name Bid War
+Game: Final Fantasy VII
+Description: Bid war to name Red XIII (9 characters max)
+Amount: $12,841.44
+Goal: (None)
+
+1 - Bid option
+Incentive: Khonor
+Game: Final Fantasy VII
+Description: 
+Amount: $4,988.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Red DII
+Game: Final Fantasy VII
+Description: 
+Amount: $4,169.8
+Goal: (None)
+
+1 - Bid option
+Incentive: Doge
+Game: Final Fantasy VII
+Description: 
+Amount: $2,631.0
+Goal: (None)
+
+1 - Bid option
+Incentive: FrankerZ
+Game: Final Fantasy VII
+Description: 
+Amount: $689.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Cocoa
+Game: Final Fantasy VII
+Description: 
+Amount: $275.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Cyanide
+Game: Final Fantasy VII
+Description: 
+Amount: $88.0
+Goal: (None)
+
+0 - Bid War
+Incentive: Tifa Name Bid War
+Game: Final Fantasy VII
+Description: Bid war to name Tifa (9 characters max)
+Amount: $9,149.02
+Goal: (None)
+
+1 - Bid option
+Incentive: TOJISUX
+Game: Final Fantasy VII
+Description: 
+Amount: $4,536.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Miltank
+Game: Final Fantasy VII
+Description: 
+Amount: $1,625.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Husbando
+Game: Final Fantasy VII
+Description: 
+Amount: $1,486.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Dreamboum
+Game: Final Fantasy VII
+Description: 
+Amount: $1,247.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Kasey
+Game: Final Fantasy VII
+Description: 
+Amount: $166.0
+Goal: (None)
+
+1 - Bid option
+Incentive: KartSeven
+Game: Final Fantasy VII
+Description: 
+Amount: $56.0
+Goal: (None)
+
+1 - Bid option
+Incentive: CaroleQ
+Game: Final Fantasy VII
+Description: 
+Amount: $32.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Use Aerith during final battles incentive
+Game: Final Fantasy VII
+Description: Donation incentive to have the runner use Aerith during the final battles.
+Amount: $5,209.91
+Goal: $5,000.00
+
+0 - Bid War
+Incentive: Save or Kill The Animals
+Game: Super Metroid
+Description: Bid War to Either Save or Kill The Animals
+Amount: $356,252.60
+Goal: (None)
+
+1 - Bid option
+Incentive: Save The Animals
+Game: Super Metroid
+Description: 
+Amount: $180,330.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Kill The Animals
+Game: Super Metroid
+Description: 
+Amount: $175,921.6
+Goal: (None)
+
+0 - Donation Goal
+Incentive: All Child Dungeons Blindfolded
+Game: The Legend of Zelda: Ocarina of Time
+Description: Runnerguy puts on a blindfold and beats all child dungeons and get the Ocarina.
+Amount: $83,019.72
+Goal: $75,000.00
+
+0 - Bid War
+Incentive: Best Zelda Game
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $44,773.85
+Goal: (None)
+
+1 - Bid option
+Incentive: Ocarina of Time
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $11,927.9
+Goal: (None)
+
+1 - Bid option
+Incentive: Link to the Past
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $8,127.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Die Hard
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $5,035.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Wind Waker
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $4,897.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Majora&#39;s Mask
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $4,494.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Binding of Isaac
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $1,449.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Link&#39;s Awakening
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $1,127.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Twilight Princess
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $1,113.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Oracle of Seasons
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $729.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Skyward Sword
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $635.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Donkey Kong
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $598.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda II: The Adventure of Link
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $582.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Okami
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $514.0
+Goal: (None)
+
+1 - Bid option
+Incentive: The Legend of Zelda
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $496.4
+Goal: (None)
+
+1 - Bid option
+Incentive: saving the animals
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $418.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Four Swords
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $408.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Minish Cap
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $358.2
+Goal: (None)
+
+1 - Bid option
+Incentive: Hyrule Warriors
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $357.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Link Between Worlds
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $288.2
+Goal: (None)
+
+1 - Bid option
+Incentive: Beyond Oasis
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $218.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Crusader of Centy
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $165.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Link: The Faces of Evil
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $122.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Tingle&#39;s Rosy Rupeeland
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $117.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda: The Wand of Gamelon
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $102.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Soul Calibur 2
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $76.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda Wii U
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $76.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Phantom Hourglass
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $70.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Ittle Dew
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $66.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Spirit Tracks
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $55.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Fortune Summoners: Secret of the Elemental Stone
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $46.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Lufia II
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $37.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Link to the Past DX
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $31.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Oracle of Ages
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $31.0
+Goal: (None)
+
+0 - Bid War
+Incentive: File Name Bid War
+Game: The Legend of Zelda: Ocarina of Time
+Description: Bid war for the file name. (8 character limit max)
+Amount: $11,844.46
+Goal: (None)
+
+1 - Bid option
+Incentive: Bob
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $3,253.0
+Goal: (None)
+
+1 - Bid option
+Incentive: 0xwas941
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $3,175.9
+Goal: (None)
+
+1 - Bid option
+Incentive: LeBlanc
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $1,271.3
+Goal: (None)
+
+1 - Bid option
+Incentive: Becky
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $1,262.0
+Goal:  (None)
+
+1 - Bid option
+Incentive: Animals
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $695.0
+Goal: (None)
+
+1 - Bid option
+Incentive: frnkrZFG
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $622.0
+Goal: (None)
+
+1 - Bid option
+Incentive: \xe3\x82\xb7 (japanese katakana for &#39;shi&#39;)
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $577.6
+Goal: (None)
+
+1 - Bid option
+Incentive: Bruh
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $405.0
+Goal: (None)
+
+1 - Bid option
+Incentive: JodenWR
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $142.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Lingk
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $115.0
+Goal: (None)
+
+1 - Bid option
+Incentive: WeekAgo
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $114.4
+Goal: (None)
+
+1 - Bid option
+Incentive: SoSmug
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $86.0
+Goal: (None)
+
+1 - Bid option
+Incentive: NEILxAYA
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Longshot
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $50.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Melee Finals and Adventure Mode speedrun
+Game: The Legend of Zelda: Ocarina of Time
+Description: Bonus stream will be kicked off at 12:00 PM EST with Super Smash Bros. Melee finals and an adventure mode speedrun by Fuzzyness.
+Amount: $28,868.13
+Goal: $20,000.00
+
+0 - Donation Goal
+Incentive: OoT Glitch Exhibition
+Game: The Legend of Zelda: Ocarina of Time
+Description: An extensive demonstration of the funniest, wackiest, and most nonsensical glitches in Ocarina of Time that you would never see in a speedrun! Will be done right before 100% OoT Run!
+Amount: $47,949.90
+Goal: $25,000.00
+
+0 - Bid War
+Incentive: Worst Zelda Game
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $5,859.37
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda: The Wand of Gamelon
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $2,859.1
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda II: Adventure of Link
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $884.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Skyward Sword
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $414.7
+Goal: (None)
+
+1 - Bid option
+Incentive: Wind Waker
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $356.4
+Goal: (None)
+
+1 - Bid option
+Incentive: Majora&#39;s Mask
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $152.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda&#39;s Adventure
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $143.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Link&#39;s Crossbow Training
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $138.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Twilight Princess
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $136.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Link&#39;s Awakening
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $130.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Ocarina of Time
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $123.0
+Goal: (None)
+
+1 - Bid option
+Incentive: A Link to the Past
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $101.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Minish Cap
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $101.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Spirit Tracks
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $77.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Link: The Faces of Evil
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $75.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Hyrule Warriors
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $53.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Phantom Hourglass
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $39.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Four Swords
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $36.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Zelda Game and Watch
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $26.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Oracle Of Ages
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Oracle of Seasons
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $5.0
+Goal: (None)
+
+1 - Bid option
+Incentive: Link Between Worlds
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $2.5
+Goal: (None)
+
+1 - Bid option
+Incentive: Soul Calibur 2
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $1.0
+Goal: (None)
+
+1 - Bid option
+Incentive: The Legend of Zelda
+Game: The Legend of Zelda: Ocarina of Time
+Description: 
+Amount: $1.0
+Goal: (None)
+
+0 - Donation Goal
+Incentive: Glitched run of Pokemon Green by Shenanagans
+Game: 
+Description: Shenangans runs Pokemon Green before the return of TASBot.
+Amount: $3,609.12
+Goal: $2,000.00
+
+0 - Donation Goal
+Incentive: TASBot: Pokemon Plays Twitch, part 2
+Game: 
+Description: If the TASbot blew your mind earlier in the week, it has one more amazing trick up its sleeve. Using the power of Twitch chat, a Super Nintendo will do something you never thought possible and might change your life forever. Be a part of history as an old console attempts to take over the known universe.
+Amount: $38,434.43
+Goal: $30,000.00
+
